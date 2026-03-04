@@ -1,0 +1,114 @@
+{
+    "genero_binarios": [
+        {
+            "nome": "masculino",
+            "descricao": "gênero masculino viril"
+        },
+        {
+            "nome": "feminino",
+            "descricao": "gênero feminino afeminado"
+        },
+        {
+            "nome": "não binário",
+            "descricao": ""
+        }
+    ],
+    "genero_nao_binarios": [
+        {
+            "nome": "não binário",
+            "descricao": "gênero não binário com características afeminada e viris combinadas"
+        },
+        {
+            "nome": "genderqueer",
+            "descricao": "gênero queer usando sobreposições inesperadas de características afeminada e viris"
+        },
+        {
+            "nome": "transgénero masculino",
+            "descricao": "gênero transgénero masculino transitando vindo do afeminado"
+        },
+        {
+            "nome": "transgénero feminino",
+            "descricao": "gênero transgénero feminino transitando vindo do viril"
+        },
+        {
+            "nome": "género fluido masculino",
+            "descricao": "gênero fluido com caraterísticas masculinas predominantes"
+        },
+        {
+            "nome": "género fluido feminino",
+            "descricao": "gênero fluido com caraterísticas femininas predominantes"
+        },
+        {
+            "nome": "agénero",
+            "descricao": "gênero não binário ausente de marcações de gênero"
+        },
+        {
+            "nome": "bigénero",
+            "descricao": "gênero bigénero com características afeminadas e viris combinadas"
+        },
+        {
+            "nome": "demiboy",
+            "descricao": "gênero demiboy"
+        },
+        {
+            "nome": "demigirl",
+            "descricao": "gênero demigirl"
+        },
+        {
+            "nome": "andrógino masculino",
+            "descricao": "gênero masculino afeminado com características andróginas"
+        },
+        {
+            "nome": "andrógino feminino",
+            "descricao": "gênero feminino viril com características andróginas"
+        },
+        {
+            "nome": "intersexo masculino",
+            "descricao": "gênero intersexo com características masculas"
+        },
+        {
+            "nome": "intersexo feminino",
+            "descricao": "gênero intersexo com características afeminadas"
+        },
+        {
+            "nome": "two-spirit",
+            "descricao": "gênero two-spirit"
+        },
+        {
+            "nome": "neutrois",
+            "descricao": "gênero neutrois indiferente das características de gêneros"
+        },
+        {
+            "nome": "pangénero masculino",
+            "descricao": "gênero pangénero expressando de múltiplos géneros misturados"
+        },
+        {
+            "nome": "pangénero feminino",
+            "descricao": "gênero pangénero expressando de múltiplos géneros misturados principalmente feminino"
+        },
+        {
+            "nome": "terceiro género",
+            "descricao": "terceiro género fora do binário"
+        },
+        {
+            "nome": "terceiro género",
+            "descricao": "terceiro género fora do binário levemente afeminado"
+        },
+        {
+            "nome": "inconformidade de género masculina",
+            "descricao": "gênero inconforme, sem características de gênero"
+        },
+        {
+            "nome": "inconformidade de género feminina",
+            "descricao": "gênero inconforme, sem características de gêneros principalmente feminino"
+        },
+        {
+            "nome": "em questionamento masculino",
+            "descricao": "gênero experimental que possuem varias características de varios gêneros"
+        },
+        {
+            "nome": "em questionamento feminino",
+            "descricao": "gênero experimental que possuem varias características de vários gêneros principalmente feminino"
+        }
+    ]
+}

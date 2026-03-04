@@ -1,0 +1,474 @@
+[
+    {
+        "nome": "Android",
+        "descricao": "robô feito com mecanismos sofisticados, divisórias de metal no rosto, criando sulcos e junções, orelhas redonda de metal"
+    },
+    {
+        "nome": "Anão",
+        "descricao": "Anão, cabeça grande, pouco pescoço, um metro de altura, robusto, bruto, mão e braços largos"
+    },
+    {
+        "nome": "Anjo/Suraggel Angelos",
+        "descricao": "Anjo celestial com asas grandes, auréola luminosa sobre a cabeça",
+        "olhos": "olhos brilhantes como estrelas, com íris de cores celestiais"
+    },
+    {
+        "nome": "Animalo Aviano",
+        "descricao": "pássaro com penas longas e texturizada Olhos de ave de rapina, grandes asas nos braços",
+        "nariz": "bico de ave de rapina, curvado e afiado, com narinas visíveis na base",
+        "boca": "sem lábios visíveis",
+        "pele": "coberta por penas, com textura macia e variada em tons"
+    },
+    {
+        "nome": "Animalo Aviano/Harpia",
+        "descricao": "Corpo de ave de rapina gigante, com braços de grandes asas, cobertas de penas, longas pernas de ave de rapina, escamosas até os joelhos, com grandes três garras afiadas e curvas na extremidade"
+    },
+    {
+        "nome": "Animalo Exodos/Kajin",
+        "descricao": "Seres exilados de dimensão desconhecida, Características mutáveis e instáveis, Olhos sem cor definida que parecem observar múltiplas realidades, Presença estranha e deslocada"
+    },
+    {
+        "nome": "Animalo Férico/Gnoll",
+        "descricao": "Híbridos de hiena e humanoide, Pelagem manchada em tons de marrom e amarelo, Orelhas pontudas, focinho alongado, postura encurvada e predatória, Risada característica e garras afiadas"
+    },
+    {
+        "nome": "Animalo Férico/Voracis",
+        "descricao": "Besta humanóide predadora, mandíbulas desproporcionais, dentes múltiplas fileiras, olhos adaptados à caça"
+    },
+    {
+        "nome": "Animalo Kalipe/Tabrachi",
+        "descricao": "Sapos humanoides com pele úmida e texturizada, Olhos grandes e saltados nas laterais da cabeça, Língua longa e pegajosa, Membranas entre os dedos, cores vibrantes ou discretas"
+    },
+    {
+        "nome": "Animalo Reptailá/Ceratops",
+        "descricao": "Répteis humanoides com cabeça similar a ceratopsídeos, Chifres no rosto (um ou mais), gola óssea no pescoço, Corpo atarracado e robusto"
+    },
+    {
+        "nome": "Animalo Reptailá/Kappa",
+        "descricao": "Répteis aquáticos de folclore oriental, Casco de tartaruga nas costas, cavidade no topo da cabeça cheia de água, Bico de tartaruga, membranas entre dedos"
+    },
+    {
+        "nome": "Animalo Reptailá/Nagah/Lamia",
+        "descricao": "Metade humano, metade serpente, Corpo de cobra da cintura para baixo, escamas brilhantes (verdes, douradas, pretas), Olhos hipnóticos de serpente, língua bifurcada"
+    },
+    {
+        "nome": "Animalo Reptailá/Pteros",
+        "descricao": "Répteis voadores humanoides, Asas membranosas nos braços, cabeça de pterodáctilo com crista, Garras nos pés, corpo leve e aerodinâmico"
+    },
+    {
+        "nome": "Animalo Reptailá/Trog",
+        "descricao": "Répteis humanoides com escamas grossas, cabeça reptiliana alongada, Língua bifurcada, cauda longa e musculosa, Sangue frio, olhos com pupilas verticais"
+    },
+    {
+        "nome": "Animalo Reptailá/Velocis",
+        "descricao": "Répteis bípedes ágeis, similares a velociraptores, Garras em forma de foice nos pés, crista na cabeça, cauda longa para equilíbrio, Corpo aerodinâmico e rápido"
+    },
+    {
+        "nome": "Animalo Verdejante/Centauro",
+        "descricao": "Metade humano, metade equino, Corpo de cavalo das patas à cintura, torso humano, Pelagem variada (marrom, preta, branca, malhada), Podem ter chifres em algumas variações"
+    },
+    {
+        "nome": "Animalo Verdejante/Satiros",
+        "descricao": "Metade humano, metade bode, Pernas de caprino com patas fendidas, chifres retorcidos na cabeça, Barba de bode, orelhas pontudas, Pelagem nas pernas"
+    },
+    {
+        "nome": "Autômatos",
+        "descricao": "Máquinas sencientes com corpo mecânico visível, Engrenagens expostas, pistons, cabos, Movimentos calculados e precisos, sons de mecanismos ao se mover"
+    },
+    {
+        "nome": "Banshee",
+        "descricao": "Espíritos femininos com grito mortal, Forma translúcida e esvoaçante, longos cabelos, rosto de beleza triste, Anunciam morte"
+    },
+    {
+        "nome": "Bugbear",
+        "descricao": "Goblinóides gigantes (2m a 2,3m), Pelagem espessa marrom ou avermelhada, Orelhas pontudas, braços longos e fortes, Expressão sempre ameaçadora, garras nos dedos"
+    },
+    {
+        "nome": "Cuar",
+        "descricao": "Felinos humanoides de grande porte, Pelagem variada, orelhas felinas pontudas, olhos com pupilas verticais, Garras retráteis, cauda longa"
+    },
+    {
+        "nome": "Deep Human",
+        "descricao": "Humanos adaptados às profundezas por gerações, Pele extremamente pálida (quase albina), olhos grandes e escuros, Dedos longos e sensíveis"
+    },
+    {
+        "nome": "Demônio/Suraggel Sulfure",
+        "descricao": "Seres infernais com asas de morcego, chifres retorcidos e cauda pontuda, Pele em tons de vermelho, roxo, preto ou laranja, Presas visíveis, olhos em chamas ou completamente negros"
+    },
+    {
+        "nome": "Desmorto/Osteon",
+        "descricao": "(um ser esqueletos animados por magia:2), (Ossos brancos:1.2), fogo-fátuo iluminando os olhos ou (sombras cobrindo as órbitas:1.2), (Articulações reforçadas por magia:1.3), sem nariz, pouca pele, (orelhas cortadas:1.7)"
+    },
+    {
+        "nome": "Djinni",
+        "descricao": "Gênios do ar com pele azulada, Corpo parcialmente translúcido, voam naturalmente, Voz como vento, cabelos que flutuam mesmo sem brisa"
+    },
+    {
+        "nome": "Driade/Dahlan",
+        "descricao": "Ser vegetal humanoide com pele de textura similar à casca de árvore, Cabelos formados por folhas, musgo e pequenas flores, Seus corpos se fundem parcialmente com a vegetação ao redor"
+    },
+    {
+        "nome": "Drull",
+        "descricao": "Humanoides pálidos e esquálidos das regiões sombrias, Olhos vazados, pele fina deixando veias aparentes, Silenciosos e esquivos"
+    },
+    {
+        "nome": "Duende",
+        "descricao": "Pequenos seres (1m a 1,3m) travessos e brincalhões, Orelhas pontudas, nariz alongado e avermelhado, Pele em tons terrosos, sorriso maroto permanente"
+    },
+    {
+        "nome": "Elemental",
+        "descricao": "Seres de puro elemental, corpo composto integralmente de seu elemento, Forma mutável e instável, tamanho variável"
+    },
+    {
+        "nome": "Elemental de Água",
+        "descricao": "Seres líquidos transparentes ou azulados, Forma ondulante e fluida, podem mudar de forma, Murmúrio de água corrente ao se mover"
+    },
+    {
+        "nome": "Elemental de Eletricidade",
+        "descricao": "Seres de energia pura com faíscas constantes, Forma instável e cintilante, brilho intenso, Estalo elétrico no ar ao redor"
+    },
+    {
+        "nome": "Elemental de Fogo",
+        "descricao": "Seres de chamas vivas, Calor intenso irradiando, forma ondulante e dançante, Iluminam o entorno, consomem materiais combustíveis"
+    },
+    {
+        "nome": "Elemental de Madeira",
+        "descricao": "Seres vegetais elementais, Videiras e troncos formando corpo humanoide, flores desabrochando e murchando ciclicamente, Ligados à vida e crescimento"
+    },
+    {
+        "nome": "Elemental de Metal",
+        "descricao": "(Ser humanoide de metal liquido:1.5), pés flutuando por mágica, (pele metálica:1.2), sólido"
+    },
+    {
+        "nome": "Elemental de Penumbra",
+        "descricao": "(Ser humanoide de energia escura:1.5), pés flutuando por mágica, (pele escura roxa textura de galáxias:1.2), Etéreo"
+    },
+    {
+        "nome": "Elemental de Terra",
+        "descricao": "(Ser humanoide de rocha e terra fundidas:1.5), pés flutuando por mágica, (pele de cristais laranjas:1.2), Sólidos"
+    },
+    {
+        "nome": "Elemental de Vento",
+        "descricao": "(Ser humanoide de ventos cianos:1.5), pés flutuando por mágica, (pele de nuvens:1.2), etéreo"
+    },
+    {
+        "nome": "Elfo",
+        "descricao": "Humanoides esguios de orelhas pontudas e traços refinados, Vivem séculos e possuem conexão inata com magia e natureza, Pele geralmente clara, cabelos variando do loiro ao negro"
+    },
+    {
+        "nome": "Elfo da Caverna/Finntroll",
+        "descricao": "Elfo adaptado às profundezas, com pele acinzentada ou azulada pálida, Olhos grandes e adaptados à escuridão, cabelos brancos ou prateados, orelhas extremamente longas"
+    },
+    {
+        "nome": "Elfo da Floresta/Eiradaan",
+        "descricao": "Elfo de pele em tons terrosos ou levemente esverdeados, Cabelos que imitam cores da natureza (verde musgo, marrom casca, dourado sol), Orelhas excepcionalmente longas e pontiagudas"
+    },
+    {
+        "nome": "Elfo da Montanha",
+        "descricao": "Elfo mais robusto que suas variações, com pele resistente e cabelos em tons de cinza, marrom ou branco neve, Adaptados a grandes altitudes e climas rigorosos"
+    },
+    {
+        "nome": "Elfo da Tempestade",
+        "descricao": "Elfo com cicatrizes elétricas na pele, cabelos que flutuam como se houvesse vento, olhos que brilham durante trovoadas"
+    },
+    {
+        "nome": "Elfo de Metal",
+        "descricao": "Elfo com partes do corpo metálicas, pele com brilho de aço ou cobre, olhos como jóias lapidadas"
+    },
+    {
+        "nome": "Elfo do Céu/Naidora",
+        "descricao": "Elfos com asas plumadas nas costas, Pele clara quase translúcida, olhos prateados ou azuis muito claros, Ossos ocos, corpo leve, Habitam cidades nas nuvens"
+    },
+    {
+        "nome": "Elfo do Mar",
+        "descricao": "Elfo com membranas entre os dedos, pele em tons azulados ou verdes, brânquias discretas, cabelos como algas"
+    },
+    {
+        "nome": "Elfo do Vulcão",
+        "descricao": "Elfo de pele escura com veios avermelhados, cabelos em tons de cinza vulcânico, resistente ao calor extremo"
+    },
+    {
+        "nome": "Esfinge",
+        "descricao": "Criaturas com corpo de leão, asas de águia e cabeça humanoide, Olhos penetrantes, vozes enigmáticas, Guardiãs de enigmas e conhecimento"
+    },
+    {
+        "nome": "Espírito",
+        "descricao": "Seres incorpóreos translúcidos, Flutuam em vez de andar, forma etérea e instável, Presença fria, podem atravessar objetos sólidos"
+    },
+    {
+        "nome": "Ettercap",
+        "descricao": "Humanoides aracnídeos com múltiplos olhos, Corpo peludo, quatro braços, capacidade de tecer teias, Pele em tons escuros, quelíceras visíveis"
+    },
+    {
+        "nome": "Fada/Silfide",
+        "descricao": "Seres minúsculos (15cm a 50cm) com asas de inseto (libélula, borboleta), Corpos delicados e parcialmente translúcidos, Flutuam naturalmente, rodeados por partículas de luz"
+    },
+    {
+        "nome": "Filho de Gnomo",
+        "descricao": "Gnomos com herança feérica mais forte, Orelhas exageradamente longas, pequenas asas vestigiais nas costas, Tamanho entre 70cm e 90cm"
+    },
+    {
+        "nome": "Gênio da Floresta",
+        "descricao": "Gênios vegetais com pele de musgo, Chifres de galhos retorcidos, aura verde suave, Folhas brotam onde pisam, cheiro de terra molhada"
+    },
+    {
+        "nome": "Gênio da Penumbra",
+        "descricao": "Gênios da meia-luz com pele cinzenta, Olhos brancos sem íris, forma que se mescla naturalmente com sombras, Presença discreta"
+    },
+    {
+        "nome": "Gênio da Tempestade",
+        "descricao": "Gênios elétricos com cabelos como raios estáticos, Pele azul-escura, olhos brancos brilhantes, Estalos elétricos ao redor do corpo"
+    },
+    {
+        "nome": "Gênio do Mar",
+        "descricao": "Gênios aquáticos com pele azul-esverdeada, Barbatanas nas orelhas e braços, cabelos como água corrente, Respiração aquática"
+    },
+    {
+        "nome": "Gênio/Quareen",
+        "descricao": "Seres elementais humanoides com pele de leve brilho etéreo, Cabelos que parecem feitos de fumaça, chamas brandas ou água corrente, Olhos sem pupila definida, apenas cor sólida"
+    },
+    {
+        "nome": "Gênio Metalúrgico",
+        "descricao": "Gênios do metal com pele de veios metálicos, Dedos alongados e precisos, ferramentas como extensão natural do corpo, Brilho de metal polido"
+    },
+    {
+        "nome": "Ghoul",
+        "descricao": "Mortos-vivos necrófagos, Pele putrefata, garras afiadas, mandíbulas deslocadas, Movem-se em quatro patas quando necessário"
+    },
+    {
+        "nome": "Gigante/Galokk",
+        "descricao": "Gigantes primordiais com altura entre 4 e 6 metros, Pele pétrea, espessa e resistente, Feições rústicas e marcadas, Força descomunal, passos que tremem o chão"
+    },
+    {
+        "nome": "Gnimo",
+        "descricao": "Gnomos minúsculos, ainda menores que gnomos comuns (40cm a 60cm), Cabeça grande em proporção ao corpo, voz fina e aguda"
+    },
+    {
+        "nome": "Goblin",
+        "descricao": "Pequenos humanoides de pele esverdeada ou acinzentada, Orelhas grandes e pontudas, olhos avermelhados ou amarelados, nariz alongado, Ágeis, astutos e barulhentos"
+    },
+    {
+        "nome": "Golem",
+        "descricao": "Golem humanoide montado com peças feitas de metal, diversas placas e rebites, aspecto magico, medieval, rosto metálico, corpo similar a uma armadura, movimentos pesados e lentos"
+    },
+    {
+        "nome": "Golem de Barro",
+        "descricao": "Golem humanoide esculpido no barro, com pedaços de pedra e tijolos, juntos por uma lama viva que se espelha e une tudos os materiais, rosto com traços rústicos e expressivos, corpo robusto e pesado"
+    },
+    {
+        "nome": "Golem de Bronze",
+        "descricao": "Golem humanoide montado com peças feitas de bronze, diversas engrenagens steam-punk, braços feitos de pistões, rosto metálico, corpo similar a uma armadura, movimentos pesados e lentos, detalhes de pátina verde e dourada, olhos como faróis brilhantes"
+    },
+    {
+        "nome": "Golem de Carne",
+        "descricao": "Golem humanoide costurado de varios cadavers, diferentes tons e texturas, cicatrizes costuradas, aspecto magico, vitoriano, marcas e cirurgias espalhadas pelo corpo, costuras na testa, deformidades"
+    },
+    {
+        "nome": "Golem de Espelho",
+        "descricao": "Golem humanoide montado com cristais reflexivos,  aspecto magico, medieval, superfície afiadas reflexiva, corpo que reflete o ambiente, dedos como garras, ombros pontudos, cabeça de cristal pontuda, mascara lisa"
+    },
+    {
+        "nome": "Golem de Ferro",
+        "descricao": "Golem humanoide montado com peças feitas de ferro, aparência enferrujada e desgastada, juntas reforçadas por rebites, aspecto mecanico, movido a disel, rosto com traços rústicos e imponentes, corpo robusto e pesado"
+    },
+    {
+        "nome": "Golem de Gelo",
+        "descricao": "Golem humanoide montado com cristais de gelo, transparente e azulado, frio intenso irradiando, apecto magico, medieval, superfície lisa e brilhante, dedos como garras, ombros de estalagmites, congelado, mascara lisa de porcelana gelada"
+    },
+    {
+        "nome": "Golem de Pedra",
+        "descricao": "Golem humanoide esculpido em pedra, com textura áspera e irregular, aspecto magico, medieval, rosto com traços rústicos e expressivos, corpo robusto e pesado, detalhes de musgo ou líquens crescendo na superfície"
+    },
+    {
+        "nome": "Golem de Sucata",
+        "descricao": "Golem humanoide montado com sucata metálica, peças de carros, máquinas e equipamentos diversos, aspecto magico, industrial, corpo assimétrico e improvisado, movimentos pesados e lentos, detalhes de ferrugem e óleo, mascara metálica improvisada, olhos como faróis brilhantes"
+    },
+    {
+        "nome": "Golem Mashin/Tsukujin",
+        "descricao": "Golem humanoide montado com armadura samurai, kamenraider medieval, corpo leve e agil, olhos como lanternas brilhantes, máscara de samurai, como inseto"
+    },
+    {
+        "nome": "Gremmilin",
+        "descricao": "Ser pequeno humanoide, magro e raquítico, cabeça maior que o corpo, olhos grandes, nariz longo  grande e pontudo, orelhas grandes e pontudas, dentes afiados, calda curta e pontuda, pele em tons de cinza ou verde, comportamento travesso e malicioso"
+    },
+    {
+        "nome": "Gylphid",
+        "descricao": "Humano, corpo coberto por listas, pele branca, aspecto magico, orelhas altas longas pontudas e finas, runas desenhadas no corpo, glifos brilhantes, pelo acinzentada, nariz felino, olhos brilhantes, detalhes de tatuagens místicas, pescoço longo"
+    },
+    {
+        "nome": "Herengon",
+        "descricao": "Lebres humanoides com orelhas longas, pernas traseiras fortes para saltos, pelagem curta, olhos grandes e expressivos, dentes incisivos proeminentes"
+    },
+    {
+        "nome": "Hobgoblin",
+        "descricao": "Goblinóides militarizados, Postura ereta e disciplinada, Pele em tons alaranjados, avermelhados ou amarelados, Armadura sempre impecável, olhos vivos e alertas"
+    },
+    {
+        "nome": "Humano",
+        "descricao": "Raça versátil e adaptável, presente em todos os continentes, Sem características físicas dominantes, os humanos são conhecidos por sua ambição e capacidade de se estabelecer em qualquer ambiente"
+    },
+    {
+        "nome": "Ifrite",
+        "descricao": "Gênios do fogo com pele rubra ou negra queimada, Chamas dançam nos cabelos, olhos como brasas, Calor intenso irradia do corpo"
+    },
+    {
+        "nome": "Imp",
+        "descricao": "Demônios menores do tamanho de gatos, Asas de morcego, cauda pontuda, chifres pequenos, Travessos e cruéis, vozes finas"
+    },
+    {
+        "nome": "Janni",
+        "descricao": "Gênios menores com aparência mais terrena que outros gênios, Ainda possuem traços elementais sutis, mas podem passar por humanos com facilidade"
+    },
+    {
+        "nome": "Kallyanach/Draconato",
+        "descricao": "Dragões humanoides com escamas coloridas (vermelhas, azuis, verdes, douradas), Cabeça dracônica com chifres, asas nas costas, cauda longa, Podem soltar fogo ou outros elementos"
+    },
+    {
+        "nome": "Kliren",
+        "descricao": "Ser alto e esguio, de membros alongados e articulações precisas, mas sua estrutura é predominantemente orgânica recobertos por pele pálida e lisa, Apenas em pontos específicos, como antebraços, joelhos e tornozelos, seu corpo é emendado por tubos de cobre, engrenagens expostas e válvulas de latão, num estilo marcadamente steam-punk"
+    },
+    {
+        "nome": "Kobold",
+        "descricao": "ser (bípede hiena:1.4)"
+    },
+    {
+        "nome": "Lauren",
+        "descricao": "Seres vegetais minúsculos com cabeça de flor, Corpo de haste fina, pétalas formando roupas naturais, Tamanho entre 15cm e 25cm"
+    },
+    {
+        "nome": "Lefling",
+        "descricao": "Versões pequenas de Lefou (50cm a 90cm), Deformidades mais sutis, ainda afetados por energia abissal mas de forma menos agressiva"
+    },
+    {
+        "nome": "Lefou",
+        "descricao": "Seres corrompidos por energia abissal, Apresentam deformidades caóticas como membros extras, olhos em lugares inesperados, pele com texturas anormais ou partes animais, Cada Lefou é único em sua mutação"
+    },
+    {
+        "nome": "Litch",
+        "descricao": "Arcanistas que alcançaram imortalidade através da morte, Forma mumificada com olhos brilhantes, Ainda vestem vestes de mago deterioradas"
+    },
+    {
+        "nome": "Lobisomem",
+        "descricao": "Humanoides com maldição lunar, Em forma híbrida: corpo musculoso coberto de pelos, cabeça de lobo, garras afiadas, Olhos dourados ou vermelhos"
+    },
+    {
+        "nome": "Lulari",
+        "descricao": "Seres lunares com pele prateada, Olhos brilhantes como estrelas, ativos principalmente durante a noite, Cabelos escuros com reflexos prateados"
+    },
+    {
+        "nome": "Medusa",
+        "descricao": "Humanoides femininas com serpentes vivas no lugar dos cabelos, Pele em tons de verde, cinza ou azulado, Olhos que podem petrificar (se tiverem esse poder), Escamas sutis na pele"
+    },
+    {
+        "nome": "Meio-gigante",
+        "descricao": "Híbridos de humano e gigante com altura entre 2,5m e 3m, Força aumentada, traços rústicos, Pele espessa, ossos largos"
+    },
+    {
+        "nome": "Minotauro",
+        "descricao": "Humanoides com cabeça de touro, chifres imponentes e corpo musculoso, Altos (2m a 2,5m), pelagem variada, força descomunal, Alguns possuem cascos, outros pés humanoides"
+    },
+    {
+        "nome": "Nefilim",
+        "descricao": "Nefilim de aura iluminada, pescoço longo, traços delicados, pele brilhante, olhos grandes"
+    },
+    {
+        "nome": "Nereidos/Sereia/Tritão",
+        "descricao": "Seres aquáticos de beleza arrebatadora, Pele perolada, azulada ou esverdeada, Membranas entre os dedos, brânquias discretas no pescoço, Cabelos que parecem permanentemente molhados"
+    },
+    {
+        "nome": "Nerin",
+        "descricao": "Seres aquáticos minúsculos em forma de gotículas humanoides, Corpo transparente com brilho aquático, Tamanho entre 10cm e 20cm"
+    },
+    {
+        "nome": "Nerim/Ether Ninfa",
+        "descricao": "Ninfas do éter com corpo semitransparente, Flutuam em vez de andar, toque frio, Podem desaparecer na luz difusa"
+    },
+    {
+        "nome": "Nezumi",
+        "descricao": "Ratos humanoides com focinho pontudo e bigodes longos, Cauda longa e fina, pelagem curta em tons de cinza, marrom ou preto, Olhos escuros adaptados à noite"
+    },
+    {
+        "nome": "Ninfa",
+        "descricao": "Espíritos femininos da natureza com beleza sobrenatural, Pele com brilho suave, flores brotam onde pisam, Voz melodiosa, corpo esguio"
+    },
+    {
+        "nome": "Nylpid",
+        "descricao": "Fadas das profundezas com bioluminescência, Asas de mariposa, pele escura com pontos de luz que pulsam, Olhos grandes adaptados à escuridão"
+    },
+    {
+        "nome": "Ogro",
+        "descricao": "Humanoides grandes (2,5m a 3m), corpulentos e de pouca inteligência, Pele em tons de cinza, verde ou marrom, Presas inferiores proeminentes, ventre protuberante"
+    },
+    {
+        "nome": "Orc",
+        "descricao": "Humanoides fortes e resistentes, com pele em tons de verde ou cinza, Presas inferiores proeminentes, testa inclinada, orelhas levemente pontudas, Complexão musculosa"
+    },
+    {
+        "nome": "Pandora/The Elder",
+        "descricao": "Seres antigos de origem desconhecida, Aparência que varia, mas sempre com ar de extrema antiguidade, Marcas do tempo, olhos que viram eras"
+    },
+    {
+        "nome": "Pixel",
+        "descricao": "Seres minúsculos de luz pura, Forma de pequenos seres luminosos, cores vibrantes e mutáveis, Flutuam constantemente"
+    },
+    {
+        "nome": "Quick Ling",
+        "descricao": "Seres pequenos e ultrarrápidos, Quase um borrão quando em movimento, olhos grandes para captar movimento, Corpo extremamente esguio"
+    },
+    {
+        "nome": "Rakshasa",
+        "descricao": "Um humanoide com orelhas de tigres, grandes presas, olhos aterrorizantes, mãos invertidas"
+    },
+    {
+        "nome": "Shryne",
+        "descricao": "Seres de areia do deserto de Zharientar, Corpo parcialmente granular, podem se dispersar em areia, Olhos como contas de vidro"
+    },
+    {
+        "nome": "Siren",
+        "descricao": "Seres marinhos de beleza perigosa, Cauda de peixe, voz hipnótica e melodiosa, Olhos em tons de azul profundo, cabelos como algas marinhas"
+    },
+    {
+        "nome": "Sky Ninfa",
+        "descricao": "Ninfas dos céus com asas de nuvem, Pele extremamente clara, cabelos brancos, Flutuam naturalmente em altitudes, voz como vento suave"
+    },
+    {
+        "nome": "Springgan",
+        "descricao": "Seres metamorfos élficos, Aparência envelhecida e enrugada em forma natural, Podem crescer a tamanhos gigantescos (até 4m) quando ativam seu poder"
+    },
+    {
+        "nome": "Sproutline",
+        "descricao": "Brotos humanoides pequenos (30cm a 50cm), Folhas no lugar de cabelo, cheiro de terra molhada, Pele em tons verdes claros"
+    },
+    {
+        "nome": "Tengu",
+        "descricao": "Corvos humanoides com bico curvado e afiado, Asas negras nas costas, penas na cabeça lembrando cabelo espetado, Pernas de ave com garras fortes"
+    },
+    {
+        "nome": "Trixie",
+        "descricao": "Fadas travessas e coloridas, Asas multicoloridas, cabelos em tons vibrantes, risada contagiante, Adoram pregar peças"
+    },
+    {
+        "nome": "Troll",
+        "descricao": "Humanoides grandes e fortes (2,5m a 3m) com capacidade de regeneração, Pele em tons de verde, cinza ou marrom, Nariz grande, orelhas pontudas, presas visíveis"
+    },
+    {
+        "nome": "Undine",
+        "descricao": "Espíritos da água em forma humanoide aquosa, Corpo azulado e translúcido, murmúrio de cachoeira ao falar, Podem se fundir com corpos d'água"
+    },
+    {
+        "nome": "Vampiro",
+        "descricao": "Mortos-vivos que se alimentam de sangue, Pele pálida, presas alongadas, olhos avermelhados ou dourados, Não têm reflexo em espelhos"
+    },
+    {
+        "nome": "Weaver",
+        "descricao": "Seres que manipulam os fios do destino, Olhos que parecem ver múltiplas realidades, dedos longos como se tecessem algo invisível"
+    },
+    {
+        "nome": "Wraith",
+        "descricao": "Espíritos vingativos de forma escura e esfarrapada, Corpo de sombra densa, olhos como pontos vermelhos, Gélidos ao toque"
+    },
+    {
+        "nome": "Yidishan",
+        "descricao": "Bugbears modificados por magia experimental, Apresentam mutações caóticas como membros extras, olhos múltiplos ou partes fundidas, Aparência grotesca e instável"
+    }
+]

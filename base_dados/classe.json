@@ -1,0 +1,1436 @@
+{
+  "classes": [
+    {
+      "classe": "Arcanista",
+      "subclasses": [
+        {
+          "nome": "Arcanista",
+          "descricao": "Estudioso das artes arcanas, capaz de manipular as regras da realidade através da mana, Sua vestimenta reflete anos de estudo: túnicas longas com runas bordadas, cajado de madeira entalhada, bolsas repletas de pergaminhos e componentes, e óculos de leitura",
+          "vestimenta": "Túnica longa com mangas amplas, cinto com frascos e livros, capa simples, cajado, chapéu pontudo ou não",
+          "itens_marcantes": "Cajado arcano, grimório, pergaminhos, componentes mágicos"
+        },
+        {
+          "nome": "Arcanista Mago",
+          "descricao": "Mestre do conhecimento arcano, dedicado a desvendar os segredos do universo através de estudo e erudição, Suas vestes são ricas em detalhes acadêmicos, com muitos bolsos para livros e ferramentas de escrita",
+          "vestimenta": "Túnica de mago com símbolos de escolas mágicas, capa forrada de veludo, cinto com bolsas para livros, luvas finas, óculos de aro de metal",
+          "itens_marcantes": "Grimório pessoal, pena de escrever encantada, varinha de madeira rara"
+        },
+        {
+          "nome": "Arcanista Bruxo",
+          "descricao": "Obtém poder através de pactos com entidades poderosas, Sua aparência muitas vezes reflete a natureza de seu patrono: marcas estranhas na pele, olhos brilhantes ou traços bestiais",
+          "vestimenta": "Vestes escuras e ritualísticas, amuletos e símbolos do patrono, capa de penas ou couro, cinto com oferendas",
+          "itens_marcantes": "Livro de pactos, foco sombrio (crânio, estatueta), selo do patrono"
+        },
+        {
+          "nome": "Arcanista Feiticeiro",
+          "descricao": "Nasce com o dom inato de manipular a magia, sem necessidade de estudo formal, Sua aparência pode ter traços da linhagem mágica (escamas, olhos brilhantes, etc.)",
+          "vestimenta": "Roupas confortáveis e práticas, muitas vezes exóticas ou tribais, adornos com cristais ou metais preciosos, capa leve",
+          "itens_marcantes": "Foco natural (pedra, cristal, pena), amuletos de família, sangue em frascos"
+        },
+        {
+          "nome": "Arcanista Ilusionista",
+          "descricao": "Especialista em enganar os sentidos e criar realidades alternativas, Seu visual é frequentemente enigmático, com tecidos que mudam de cor ou espelhos",
+          "vestimenta": "Vestes com padrões hipnóticos, capa de material reflexivo, máscara ou véu, muitos anéis e adereços cintilantes",
+          "itens_marcantes": "Espelho de prata, pó de fada, cartas de baralho encantadas"
+        },
+        {
+          "nome": "Arcanista Sanguíneo",
+          "descricao": "Manipula o próprio sangue e o de outros como fonte de poder, Sua aparência pode ser pálida ou marcada por cicatrizes rituais, com recipientes de sangue",
+          "vestimenta": "Vestes vermelhas ou negras, cintos com frascos de sangue, luvas de couro, joias com rubis",
+          "itens_marcantes": "Adaga ritual, cálices de sangue, pergaminhos de hemomancia"
+        },
+        {
+          "nome": "Arcanista Tecnopata",
+          "descricao": "Controla máquinas e artefatos tecnológicos com a mente, Sua vestimenta mistura elementos arcanos com peças mecânicas e fios",
+          "vestimenta": "Túnica com engrenagens decorativas, cinto com ferramentas, luvas com contatos metálicos, óculos de proteção",
+          "itens_marcantes": "Manípulo tecnomágico, foco de cristal com circuitos, componentes eletrônicos"
+        },
+        {
+          "nome": "Arcanista Catalista",
+          "descricao": "Baseia sua magia na transmutação e criação de elementos, usando sacrifícios equivalentes, Sua vestimenta lembra a de um alquimista, com muitos frascos e reagentes",
+          "vestimenta": "Avental de couro resistente a ácidos, máscara de proteção, luvas grossas, cinto com frascos e ferramentas de laboratório",
+          "itens_marcantes": "Cadinho portátil, frascos de reagentes, livro de fórmulas"
+        },
+        {
+          "nome": "Arcanista Relicário",
+          "descricao": "Especialista em imbuir objetos com mana, transformando itens comuns em poderosos artefatos, Carrega consigo diversas ferramentas e peças para trabalhar",
+          "vestimenta": "Vestes com muitos bolsos, cinto com ferramentas de ourives e entalhador, luvas finas, avental de couro",
+          "itens_marcantes": "Martelo de gravação, cinzel, pedras preciosas brutas, estojo de pincéis"
+        },
+        {
+          "nome": "Arcanista Onirista",
+          "descricao": "Manipula sonhos e o inconsciente, projetando desejos e medos, Sua aparência é etérea, com tecidos esvoaçantes e padrões oníricos",
+          "vestimenta": "Roupas leves e fluidas, véus, tecidos com estampas de nuvens ou estrelas, amuletos de cristal de quartzo",
+          "itens_marcantes": "Incensos, óleos essenciais, diário de sonhos, pena de sonho"
+        },
+        {
+          "nome": "Arcanista Biomântico",
+          "descricao": "Altera a forma e a genética de seres vivos, seja para curar ou para criar criaturas, Sua vestimenta lembra um cirurgião ou biólogo, com instrumentos estranhos",
+          "vestimenta": "Avental branco ou de couro, luvas cirúrgicas, óculos de aumento, cinto com bisturis e pinças, frascos com amostras",
+          "itens_marcantes": "Bisturi encantado, frascos com tecidos vivos, livro de anatomia mágica"
+        },
+        {
+          "nome": "Arcanista Velantes",
+          "descricao": "Comunica-se com os mortos e reanima corpos, sempre lidando com a linha tênue entre a vida e a morte, Sua aparência é soturna, com vestes escuras e símbolos funerários",
+          "vestimenta": "Vestes negras ou roxas, capa pesada, amuletos de proteção espiritual, luvos de renda, máscara ou véu",
+          "itens_marcantes": "Cajado de ossos, livro de rituais funerários, sinos, velas negras"
+        },
+        {
+          "nome": "Arcanista Lexário",
+          "descricao": "Usa o poder das palavras e runas para alterar a realidade, Sua vestimenta é coberta de inscrições e símbolos, com pergaminhos por todos os lados",
+          "vestimenta": "Túnica com runas bordadas, cinto com pergaminhos, pena atrás da orelha, óculos, dedeiras de metal para escrever",
+          "itens_marcantes": "Pena de escriba, tinta especial, livros de leis e códigos, selo de cera"
+        },
+        {
+          "nome": "Arcanista Vinculador",
+          "descricao": "Fundi sua essência com outra criatura ou pessoa, amplificando poderes, Pode ter marcas de ligação, como tatuagens brilhantes ou cicatrizes simétricas",
+          "vestimenta": "Roupas que permitem movimento, com espaços para expor as marcas de ligação, braceletes e colares de elo",
+          "itens_marcantes": "Corrente de ligação, amuleto de vínculo, livro de contratos"
+        },
+        {
+          "nome": "Arcanista Pictodérmio",
+          "descricao": "Suas tatuagens são a fonte de seu poder, cada uma contando uma história e concedendo habilidades, Seu corpo é uma obra de arte viva",
+          "vestimenta": "Roupas que deixam à mostra grande parte da pele tatuada, geralmente leves e simples, com muitos anéis e piercings",
+          "itens_marcantes": "Conjunto de agulhas mágicas, tintas especiais, pergaminhos de desenhos"
+        }
+      ]
+    },
+    {
+      "classe": "Bárbaro",
+      "subclasses": [
+        {
+          "nome": "Bárbaro",
+          "descricao": "Guerreiro que canaliza a fúria interior para aumentar sua força em combate, Veste peles de animais e armaduras rústicas, carregando armas pesadas",
+          "vestimenta": "Peles e couros, ombreiras de animal, cinto largo, braçadeiras de metal, calças de lona, botas de couro",
+          "itens_marcantes": "Machado grande ou espada larga, totem pessoal, chifre para beber"
+        },
+        {
+          "nome": "Bárbaro Berserker",
+          "descricao": "Entra em fúria cega, perdendo a noção de defesa em prol do ataque, Sua vestimenta é ainda mais selvagem, muitas vezes com pinturas de guerra",
+          "vestimenta": "Torso nu ou apenas coberto por peles, pinturas de guerra, cinto com caveiras, braçadeiras de espinhos",
+          "itens_marcantes": "Machado duplo, machadinhas de arremesso, amuleto de urso"
+        },
+        {
+          "nome": "Bárbaro Totêmico",
+          "descricao": "Busca a força de animais e espíritos da natureza, adornando-se com partes de animais (penas, garras, dentes) e totens",
+          "vestimenta": "Peles com a cabeça do animal totêmico, colares de dentes, braçadeiras de osso, pinturas rituais",
+          "itens_marcantes": "Totem esculpido, máscara animal, fetiches de caça"
+        },
+        {
+          "nome": "Bárbaro das Feras",
+          "descricao": "Mais fera do que homem, age por instinto, Sua aparência é selvagem, com cabelos desgrenhados, unhas longas e presas",
+          "vestimenta": "Peles rasgadas, quase nenhuma roupa, corpo coberto de cicatrizes e pelos, garras naturais ou reforçadas",
+          "itens_marcantes": "Garras de metal, presas de animais, pele de lobo"
+        },
+        {
+          "nome": "Bárbaro Gigante",
+          "descricao": "Herdeiro da força dos gigantes antigos, pode aumentar de tamanho, Sua estatura é avantajada, e veste armaduras enormes feitas de placas de metal bruto",
+          "vestimenta": "Armadura de placas grandes e rústicas, peles de mamute, cinto com caveiras de gigantes, capacote de ferro",
+          "itens_marcantes": "Martelo de guerra gigante, clava de osso, corrente de arrasto"
+        }
+      ]
+    },
+    {
+      "classe": "Bardo",
+      "subclasses": [
+        {
+          "nome": "Bardo",
+          "descricao": "Artista que usa a música, a palavra ou a performance para inspirar aliados e confundir inimigos, Sua vestimenta é colorida e chamativa, cheia de adereços",
+          "vestimenta": "Roupas coloridas, chapéu com pena, capa bordada, cinto com bolsas para partituras, instrumento musical sempre à mão",
+          "itens_marcantes": "Alaúde, flauta, livro de canções, máscara de teatro"
+        },
+        {
+          "nome": "Bardo Musical",
+          "descricao": "Foco na música e no som, Seu instrumento é sua arma e sua magia, e sua roupa pode ter sinos ou elementos que produzem som",
+          "vestimenta": "Roupas de menestrel, com guizos nos punhos, capa com pautas musicais, cinto com instrumentos variados",
+          "itens_marcantes": "Alaúde encantado, flauta de pã, tambor de guerra"
+        },
+        {
+          "nome": "Bardo Cênico",
+          "descricao": "Usa o corpo e a expressão como arte, Suas roupas são leves e permitem movimentos, muitas vezes com máscaras e adereços de palco",
+          "vestimenta": "Malha justa, tecidos fluidos, máscara teatral, sapatilhas, capa de arlequim",
+          "itens_marcantes": "Máscara expressiva, pernas de pau, leque de seda"
+        },
+        {
+          "nome": "Bardo Gráfico",
+          "descricao": "Cria imagens que ganham vida, Carrega consigo tintas, pincéis e telas, e suas roupas podem estar manchadas de tinta",
+          "vestimenta": "Avental de pintor, boina, camisa folgada, calças largas, cinto com pincéis e frascos de tinta",
+          "itens_marcantes": "Pincel mágico, tela em branco, caderno de esboços"
+        },
+        {
+          "nome": "Bardo Escrita",
+          "descricao": "Manipula a palavra escrita, seja em poemas ou contratos, Veste-se de forma sóbria, como um escriba, com muitos livros e pergaminhos",
+          "vestimenta": "Túnica de erudito, capa escura, cinto com pergaminhos, pena e tinteiro, óculos de aro fino",
+          "itens_marcantes": "Livro de poemas, pena de corvo, selo de cera"
+        }
+      ]
+    },
+    {
+      "classe": "Bucaneiro",
+      "subclasses": [
+        {
+          "nome": "Bucaneiro",
+          "descricao": "Aventureiro dos mares, hábil em navegação e combate naval, Sua vestimenta é prática e resistente, com elementos náuticos",
+          "vestimenta": "Casaco de capitão, camisa de linho, calças largas, botas de cano alto, cinto com adaga, chapéu de três pontas",
+          "itens_marcantes": "Sabre, pistola, bússola, mapa do tesouro"
+        },
+        {
+          "nome": "Bucaneiro Esgrimista",
+          "descricao": "Mestre da espada, ágil e preciso, Usa roupas leves que não atrapalhem os movimentos, muitas vezes com capa e chapéu de aba larga",
+          "vestimenta": "Camisa branca, colete de couro, calças justas, botas macias, capa curta, chapéu de aba",
+          "itens_marcantes": "Rapieira, florete, par de espadas curtas"
+        },
+        {
+          "nome": "Bucaneiro Pistoleiro",
+          "descricao": "Especialista em armas de fogo, com pontaria infalível, Carrega múltiplas pistolas e tem um cinto de munição",
+          "vestimenta": "Casaco comprido, cinto de balas, coldres cruzados, chapéu de caubói ou pirata, luvas de couro",
+          "itens_marcantes": "Par de pistolas, mosquete, balas de prata"
+        },
+        {
+          "nome": "Bucaneiro Capitão",
+          "descricao": "Líder nato, comanda sua tripulação com voz de comando, Veste-se com ostentação, mostrando sua patente",
+          "vestimenta": "Fardão de capitão, dragonas, chapéu de comandante, capa vermelha, bota de cano alto com espora",
+          "itens_marcantes": "Espada de cerimônia, telescópio, bandeira pirata"
+        },
+        {
+          "nome": "Bucaneiro Navegador",
+          "descricao": "Mestre em rotas e mapas, sempre com instrumentos de navegação à mão, Sua roupa é prática, com muitos bolsos para mapas",
+          "vestimenta": "Casaco de marinheiro, cinto com bússola e sextante, calças enceradas, botas de couro, chapéu de oleado",
+          "itens_marcantes": "Sextante, mapa astral, diário de bordo"
+        },
+        {
+          "nome": "Bucaneiro Aventureiro",
+          "descricao": "Explorador nato, sempre em busca do próximo desafio, Carrega mochila e equipamentos de escalada, além de armas versáteis",
+          "vestimenta": "Roupas de explorador, colete com muitos bolsos, mochila, corda, cantil, chapéu de abas largas",
+          "itens_marcantes": "Mapa antigo, binóculo, facão de mato"
+        },
+        {
+          "nome": "Bucaneiro Enfeitiçado",
+          "descricao": "Marca de uma maldição ou pacto o transforma, Sua aparência pode ter traços sobrenaturais, como olhos brilhantes ou pele anormal",
+          "vestimenta": "Roupas escuras e puídas, amuletos de proteção, capa rasgada, marcas na pele (tatuagens ou cicatrizes luminosas)",
+          "itens_marcantes": "Amuleto amaldiçoado, diário de bordo amarelado, corrente quebrada"
+        }
+      ]
+    },
+    {
+      "classe": "Caçador",
+      "subclasses": [
+        {
+          "nome": "Caçador",
+          "descricao": "Rastreador nato, conhece a natureza e as presas, Veste-se com roupas de camuflagem, geralmente verdes e marrons, e carrega armas de longo alcance",
+          "vestimenta": "Roupas de couro e lona em tons terrosos, capa de camuflagem, cinto com facas e armadilhas, botas de trilha",
+          "itens_marcantes": "Arco longo, besta, faca de caça, armadilhas"
+        },
+        {
+          "nome": "Caçador Rastreador",
+          "descricao": "Especialista em seguir pistas e cansar a presa, Sua vestimenta é discreta e eficiente, com muitos bolsos para apetrechos de rastreio",
+          "vestimenta": "Roupa de couro clara, cinto com bússola e lupa, capa leve, botas silenciosas, chapéu de abas",
+          "itens_marcantes": "Lupa, pó de rastreamento, armadilhas de laço"
+        },
+        {
+          "nome": "Caçador Certeiro",
+          "descricao": "Foco em ataques precisos à distância, Usa roupas que não restrinjam os movimentos dos braços, muitas vezes com dedeiras para puxar a corda do arco",
+          "vestimenta": "Colete leve, braçadeiras de couro, luvas com dedos livres, capuz, calças justas",
+          "itens_marcantes": "Arco composto, besta de precisão, flechas especiais"
+        },
+        {
+          "nome": "Caçador Guardião",
+          "descricao": "Protege territórios e aliados, muitas vezes acompanhado de um animal, Sua roupa pode ter elementos que remetem ao seu companheiro animal",
+          "vestimenta": "Armadura de couro reforçada, capa com insígnias de proteção, cinto com apito e petiscos para o animal",
+          "itens_marcantes": "Apito de chamado, coleira encantada, bastão de defesa"
+        },
+        {
+          "nome": "Caçador Exterminador",
+          "descricao": "Caça criaturas específicas, conhecendo seus pontos fracos, Carrega armas preparadas com venenos ou elementos específicos",
+          "vestimenta": "Armadura escura, capa de couro, cinto com frascos de veneno, luvas de proteção, máscara ou capuz",
+          "itens_marcantes": "Adaga envenenada, besta de repetição, manual de criaturas"
+        },
+        {
+          "nome": "Caçador Sobreviventista",
+          "descricao": "Sobrevive em qualquer ambiente, usando recursos da natureza, Sua vestimenta é feita de materiais naturais e improvisados",
+          "vestimenta": "Roupas de couro e pele, cinto com cantil e facão, mochila de lona, capa de chuva de folhas",
+          "itens_marcantes": "Faca de mato, isqueiro, rede de pesca"
+        }
+      ]
+    },
+    {
+      "classe": "Cavaleiro",
+      "subclasses": [
+        {
+          "nome": "Cavaleiro",
+          "descricao": "Guerreiro montado ou não, que segue um código de honra, Usa armadura completa e carrega espada e escudo",
+          "vestimenta": "Armadura de placas, cota de malha, elmo, escudo heráldico, espada longa, capa com as cores de sua ordem",
+          "itens_marcantes": "Espada longa, escudo, estandarte, cavalo"
+        },
+        {
+          "nome": "Cavaleiro Real",
+          "descricao": "Servo de um reino, recebe soldo e deve lealdade ao soberano, Sua armadura é refinada, com insígnias reais",
+          "vestimenta": "Armadura polida com detalhes dourados, capa real, elmo com plumas, espada de cerimônia",
+          "itens_marcantes": "Anel de nobreza, documento de nomeação, brasão da família real"
+        },
+        {
+          "nome": "Cavaleiro Honroso",
+          "descricao": "Guiado por um código pessoal de honra, busca a justiça, Sua armadura é simples mas bem cuidada, sem muitos adornos",
+          "vestimenta": "Armadura de aço simples, capa branca, elmo aberto, espada de lâmina reta",
+          "itens_marcantes": "Livro de códigos, medalha de honra, flâmula pessoal"
+        },
+        {
+          "nome": "Cavaleiro Errante",
+          "descricao": "Busca redenção por um passado de falhas, Sua armadura é gasta e amassada, sem identificação",
+          "vestimenta": "Armadura enferrujada e remendada, capa surrada, elmo sem visor, espada de batalha com marcas",
+          "itens_marcantes": "Carta de perdão (rasgada), corrente quebrada, diário de viagem"
+        },
+        {
+          "nome": "Cavaleiro Desafiante",
+          "descricao": "Movido por um desafio ou vingança, é implacável, Sua armadura é escura e intimidadora",
+          "vestimenta": "Armadura negra, capa vermelha ou preta, elmo com chifres, espada grande de duas mãos",
+          "itens_marcantes": "Troféu de inimigo derrotado, bracelete com nome do alvo"
+        },
+        {
+          "nome": "Cavaleiro Escamado",
+          "descricao": "Forma um vínculo com um réptil ou dragão, compartilhando poder, Sua armadura pode ter escamas ou elementos dracônicos",
+          "vestimenta": "Armadura com placas em formato de escamas, capa de couro de dragão, elmo com chifres, lança longa",
+          "itens_marcantes": "Ovo de dragão, escama de dragão, sineta de chamado"
+        },
+        {
+          "nome": "Cavaleiro Montante",
+          "descricao": "Mestre na cavalaria, luta montado, Sua armadura é pesada e preparada para carga, com lança e espada longa",
+          "vestimenta": "Armadura de cavaleiro pesada, esporas, sela adaptada, lança de cavalaria, escudo triangular",
+          "itens_marcantes": "Cavalo de guerra, arreios encantados, esporas de prata"
+        },
+        {
+          "nome": "Cavaleiro Hoplita",
+          "descricao": "Especialista em defesa, usa escudo grande e forma barreiras, Sua armadura é robusta, com escudo imponente",
+          "vestimenta": "Armadura de bronze ou aço, escudo redondo ou retangular grande, lança curta, espada de lado",
+          "itens_marcantes": "Escudo de muralha, lança de falange, elmo coríntio"
+        }
+      ]
+    },
+    {
+      "classe": "Clérigo",
+      "subclasses": [
+        {
+          "nome": "Clérigo",
+          "descricao": "Servo dos deuses, canaliza poder divino para curar e proteger, Veste vestes sagradas com símbolos de sua fé",
+          "vestimenta": "Vestes litúrgicas, capa com símbolo divino, cinto com livro de orações, adaga ou clava cerimonial",
+          "itens_marcantes": "Símbolo sagrado, livro de orações, água benta"
+        },
+        {
+          "nome": "Clérigo Benzendo",
+          "descricao": "Foco em bênçãos e cura, Suas vestes são claras e puras, com muitos símbolos de proteção",
+          "vestimenta": "Túnica branca, estola bordada, capa azul-claro, cinto com frascos de óleos sagrados",
+          "itens_marcantes": "Óleo da unção, incensário, relíquia de santo"
+        },
+        {
+          "nome": "Clérigo Purificador",
+          "descricao": "Expurga o mal e as impurezas, Veste-se de branco e dourado, com tochas ou incensários para purificação",
+          "vestimenta": "Vestes brancas com detalhes dourados, capa vermelha, cinto com frascos de água benta, tocha",
+          "itens_marcantes": "Água benta, incenso purificador, martelo de rituais"
+        },
+        {
+          "nome": "Clérigo do Panteão",
+          "descricao": "Serve a todos os deuses, buscando equilíbrio, Sua vestimenta combina símbolos de várias divindades",
+          "vestimenta": "Vestes multicoloridas, capa com bordados de diversos símbolos, cinto com múltiplos amuletos",
+          "itens_marcantes": "Coleção de símbolos sagrados, livro de teologia"
+        },
+        {
+          "nome": "Clérigo Profeta",
+          "descricao": "Recebe visões do futuro, Suas vestes podem ter elementos que remetem ao tempo (relógios, calendários) ou são simples para meditação",
+          "vestimenta": "Vestes sóbrias, capa cinza, cinto com pergaminhos de profecias, venda ou olhos vendados",
+          "itens_marcantes": "Bola de cristal, pergaminhos antigos, incenso de visão"
+        },
+        {
+          "nome": "Clérigo Monástico",
+          "descricao": "Monge devoto, combina fé com disciplina corporal, Veste hábitos simples e carrega um cajado ou arma de madeira",
+          "vestimenta": "Hábito marrom ou cinza, cordão na cintura, sandálias, capuz, cajado de peregrino",
+          "itens_marcantes": "Cajado de madeira, tigela de esmolas, livro de meditações"
+        },
+        {
+          "nome": "Clérigo Exorcista",
+          "descricao": "Especialista em expulsar espíritos malignos, Carrega símbolos de proteção e armas abençoadas",
+          "vestimenta": "Vestes negras ou roxas, estola com cruzes, cinto com água benta e sal, crucifixo grande",
+          "itens_marcantes": "Bíblia de exorcismos, água benta, corrente de prata"
+        }
+      ]
+    },
+    {
+      "classe": "Druida",
+      "subclasses": [
+        {
+          "nome": "Druida",
+          "descricao": "Guardião da natureza, capaz de se transformar em animais e controlar elementos naturais, Veste-se com peles, folhas e materiais orgânicos",
+          "vestimenta": "Túnica de linho cru, capa de folhas, cinto de cipó, colares de sementes e penas, botas de couro",
+          "itens_marcantes": "Cajado de carvalho, foco de cristal, saco de sementes"
+        },
+        {
+          "nome": "Druida Vegetal",
+          "descricao": "Domina o poder das plantas, Sua pele pode ter tons esverdeados, e ele carrega sementes e mudas",
+          "vestimenta": "Roupas feitas de fibras vegetais, capa de folhas, cinto com bolsas de sementes, chapéu de palha",
+          "itens_marcantes": "Semente dourada, regador mágico, livro de herbário"
+        },
+        {
+          "nome": "Druida Animal",
+          "descricao": "Comunica-se com animais e assume formas bestiais, Usa peles e partes de animais (penas, garras) como adorno",
+          "vestimenta": "Pele de lobo ou urso, colar de dentes, braçadeiras de couro, pinturas rupestres no corpo",
+          "itens_marcantes": "Apito de chamado animal, máscara de fera, totem de matilha"
+        },
+        {
+          "nome": "Druida Fúngico",
+          "descricao": "Lida com fungos e decomposição, Sua aparência pode ter cogumelos crescendo em suas roupas ou pele",
+          "vestimenta": "Vestes escuras e úmidas, capa de micélio, cinto com esporos, chapéu de cogumelo",
+          "itens_marcantes": "Cogumelo luminoso, esporos em pó, manual de fungos"
+        },
+        {
+          "nome": "Druida Mineral",
+          "descricao": "Conecta-se com a terra e os cristais, Sua pele pode ter veios de pedra, e ele carrega geodos e minerais",
+          "vestimenta": "Túnica de linho grosso, capa de lã, cinto com pedras preciosas, braçadeiras de cobre",
+          "itens_marcantes": "Cristal de quartzo, martelo de geólogo, mapa de cavernas"
+        },
+        {
+          "nome": "Druida Ancestral",
+          "descricao": "Invoca a força de criaturas pré-históricas, Usa fósseis e ossos como adorno, e sua aparência pode lembrar um homem das cavernas",
+          "vestimenta": "Peles de mamute, colar de dentes de tigre-dente-de-sabre, pinturas tribais, machado de pedra",
+          "itens_marcantes": "Fóssil de dinossauro, chifre de tricerátopo, pele de preguiça-gigante"
+        },
+        {
+          "nome": "Druida Espiritual",
+          "descricao": "Conecta-se com espíritos da natureza, Suas vestes são etéreas, e ele carrega itens que atraem espíritos (sinos, penas)",
+          "vestimenta": "Vestes brancas ou prateadas, véu, cinto com sinos, capa de gaze, amuletos de proteção espiritual",
+          "itens_marcantes": "Sino dos espíritos, pena de coruja, incenso de sálvia"
+        },
+        {
+          "nome": "Druida Elemental",
+          "descricao": "Controla os elementos da natureza (fogo, água, terra, ar), Sua vestimenta reflete o elemento que mais domina",
+          "vestimenta": "Depende do elemento: para fogo, tons vermelhos e laranja; para água, azuis e verdes; para terra, marrons e verdes; para ar, brancos e cinzas",
+          "itens_marcantes": "Foco elemental (cristal, concha, chama eterna), livro de elementos"
+        }
+      ]
+    },
+    {
+      "classe": "Guerreiro",
+      "subclasses": [
+        {
+          "nome": "Guerreiro",
+          "descricao": "Mestre em combate com armas, versátil e resistente, Usa armaduras leves ou médias e empunha variados tipos de arma",
+          "vestimenta": "Cota de malha ou couraça, braçais, grevas, capa, cinto com armas, botas de combate",
+          "itens_marcantes": "Espada longa, machado, escudo, lança"
+        },
+        {
+          "nome": "Guerreiro Esgrimista",
+          "descricao": "Foco em destreza e precisão com espadas leves, Veste-se de forma elegante e ágil",
+          "vestimenta": "Camisa de seda, colete de couro, calças justas, botas macias, capa curta, chapéu de aba",
+          "itens_marcantes": "Rapieira, florete, adaga de parada"
+        },
+        {
+          "nome": "Guerreiro Pretor",
+          "descricao": "Especialista em escudos, defende aliados com maestria, Usa armadura pesada e escudo grande",
+          "vestimenta": "Armadura de placas, escudo retangular ou redondo, espada curta, elmo fechado",
+          "itens_marcantes": "Escudo de torre, espada de uma mão, manoplas reforçadas"
+        },
+        {
+          "nome": "Guerreiro Estrategista",
+          "descricao": "Líder no campo de batalha, usa táticas e comando, Sua armadura pode ter insígnias de comando",
+          "vestimenta": "Armadura com detalhes dourados, capa de comando, cinto com mapas, estandarte, elmo com crista",
+          "itens_marcantes": "Mapa tático, flauta de comando, livro de estratégias"
+        },
+        {
+          "nome": "Guerreiro Percutor",
+          "descricao": "Usa armas contundentes como machados e marretas, Tem físico forte e veste armaduras pesadas",
+          "vestimenta": "Armadura de placas grossa, cota de malha, elmo com chifres, machado grande, ombreiras reforçadas",
+          "itens_marcantes": "Machado de batalha, marreta, martelo de guerra"
+        },
+        {
+          "nome": "Guerreiro Picador",
+          "descricao": "Especialista em lanças e armas de haste, mantendo inimigos à distância, Usa armaduras médias",
+          "vestimenta": "Couraça de couro, grevas, braçais, lança longa, capa de combate, elmo aberto",
+          "itens_marcantes": "Lança, alabarda, tridente"
+        },
+        {
+          "nome": "Guerreiro Duelista",
+          "descricao": "Luta com duas armas, ágil e letal, Veste roupas leves que permitam mobilidade",
+          "vestimenta": "Colete de couro, camisa leve, calças justas, botas macias, cinto com duas bainhas",
+          "itens_marcantes": "Duas espadas curtas, adagas, cimitarras"
+        },
+        {
+          "nome": "Guerreiro Forqueiro",
+          "descricao": "Usa tridente ou forcado para controlar o inimigo, Veste armaduras médias e carrega redes ou cordas",
+          "vestimenta": "Couraça de couro, braçais, tridente, cinto com cordas, elmo simples",
+          "itens_marcantes": "Tridente, rede de combate, corrente"
+        },
+        {
+          "nome": "Guerreiro Pesado",
+          "descricao": "Empunha espadas enormes com as duas mãos, Usa armadura pesada e tem força descomunal",
+          "vestimenta": "Armadura de placas completa, espada montante, ombreiras enormes, elmo fechado",
+          "itens_marcantes": "Espada de duas mãos, montante, claymore"
+        },
+        {
+          "nome": "Guerreiro Laçador",
+          "descricao": "Usa correntes, foices e armas de alcance, controlando o campo, Veste roupas ágeis e carrega muitos apetrechos",
+          "vestimenta": "Roupas leves, cinto com correntes, braçais de metal, luvas com ganchos, capa curta",
+          "itens_marcantes": "Corrente com foice, kusarigama, bastão articulado"
+        }
+      ]
+    },
+    {
+      "classe": "Inventor",
+      "subclasses": [
+        {
+          "nome": "Inventor",
+          "descricao": "Gênio criador, capaz de construir engenhocas e artefatos, Veste avental de couro e carrega ferramentas por todos os lados",
+          "vestimenta": "Avental de couro, camisa de manga comprida, calças resistentes, cinto com ferramentas, óculos de proteção",
+          "itens_marcantes": "Chave inglesa, martelo, alicate, estojo de engrenagens"
+        },
+        {
+          "nome": "Inventor Bélico",
+          "descricao": "Foco em armas de fogo e explosivos, Sua vestimenta é resistente ao fogo, com muitos coldres e bolsas de pólvora",
+          "vestimenta": "Casaco de couro resistente, cinto de munição, luvas de amianto, óculos escuros, máscara contra fumaça",
+          "itens_marcantes": "Pistola caseira, granadas, mosquetão, pólvora"
+        },
+        {
+          "nome": "Inventor Mecânico",
+          "descricao": "Constrói máquinas e autômatos, Veste roupas com muitas engrenagens decorativas e carrega óleo e peças",
+          "vestimenta": "Macacão de mecânico, cinto com chaves de fenda e alicates, luvas de couro, óculos com lupas",
+          "itens_marcantes": "Chave de fenda, martelo, conjunto de engrenagens, manual de mecânica"
+        },
+        {
+          "nome": "Inventor Genético",
+          "descricao": "Altera seres vivos através de magia e ciência, Veste avental branco de laboratório e carrega frascos com amostras",
+          "vestimenta": "Avental branco, luvas cirúrgicas, máscara, óculos de proteção, cinto com frascos e seringas",
+          "itens_marcantes": "Seringa de mutação, bisturi, frascos de DNA, livro de genética"
+        },
+        {
+          "nome": "Inventor Engenheiro",
+          "descricao": "Constrói pontes, fortificações e mecanismos, Veste roupas resistentes e carrega trenas, níveis e ferramentas de construção",
+          "vestimenta": "Macacão de trabalho, capacete, cinto com martelo e trenas, botas com biqueira de aço",
+          "itens_marcantes": "Trena mágica, nível a laser, chave inglesa, projetos de engenharia"
+        },
+        {
+          "nome": "Inventor Metalúrgico",
+          "descricao": "Mestre em forja e metalurgia, cria armas e armaduras excepcionais, Veste avental de couro resistente ao fogo e carrega martelo e tenaz",
+          "vestimenta": "Avental de couro, luvas de amianto, óculos de proteção, cinto com martelo e tenaz, perneiras de couro",
+          "itens_marcantes": "Martelo de ferreiro, bigorna portátil, forja mágica, lingotes de metal"
+        }
+      ]
+    },
+    {
+      "classe": "Ladino",
+      "subclasses": [
+        {
+          "nome": "Ladino",
+          "descricao": "Especialista em furtividade, agilidade e ataques precisos, Veste roupas escuras e leves, com muitos bolsos escondidos",
+          "vestimenta": "Roupa escura de tecido macio, capuz, cinto com adagas e ferramentas de ladrão, botas silenciosas",
+          "itens_marcantes": "Adaga, gazuas, corda de escalada, bomba de fumaça"
+        },
+        {
+          "nome": "Ladino Incógnito",
+          "descricao": "Mestre em disfarces e mudar de identidade, Carrega consigo diversos disfarces e maquiagem",
+          "vestimenta": "Roupas neutras e facilmente trocáveis, cinto com perucas e maquiagem, capa reversível",
+          "itens_marcantes": "Kit de disfarces, máscaras, documentos falsos"
+        },
+        {
+          "nome": "Ladino Gatuno",
+          "descricao": "Foco em arrombar fechaduras e furtar objetos, Suas mãos são ágeis, e ele carrega muitas gazuas e ferramentas",
+          "vestimenta": "Roupas justas com muitos bolsos, luvas finas, cinto com gazuas e alicates, capuz",
+          "itens_marcantes": "Gazua mestra, estetoscópio, luvas de pelica"
+        },
+        {
+          "nome": "Ladino Assassino",
+          "descricao": "Treinado para eliminar alvos com um golpe só, Veste-se de forma a não chamar atenção, mas carrega armas letais",
+          "vestimenta": "Roupas escuras e discretas, capuz, luvas de couro, cinto com adagas envenenadas, máscara",
+          "itens_marcantes": "Adaga envenenada, estilete, venenos, capa de invisibilidade"
+        },
+        {
+          "nome": "Ladino Furtivo",
+          "descricao": "Move-se como uma sombra, praticamente invisível, Suas roupas são feitas de materiais que absorvem luz e som",
+          "vestimenta": "Roupa preta fosca, capuz, botas com sola de pano, luvas, cinto com ferramentas silenciosas",
+          "itens_marcantes": "Poção de invisibilidade, corda de seda, sapatos silenciosos"
+        },
+        {
+          "nome": "Ladino Venenoso",
+          "descricao": "Usa venenos e armadilhas para incapacitar inimigos, Carrega frascos de veneno e pequenas armadilhas",
+          "vestimenta": "Roupas escuras, cinto com frascos de vidro, luvas de couro grosso, máscara contra vapores",
+          "itens_marcantes": "Frascos de veneno, agulhas envenenadas, armadilhas de pressão"
+        }
+      ]
+    },
+    {
+      "classe": "Lutador",
+      "subclasses": [
+        {
+          "nome": "Lutador",
+          "descricao": "Combate com o próprio corpo, usando punhos e pernas, Veste roupas leves que permitem ampla movimentação",
+          "vestimenta": "Calças largas, faixa na cintura, túnica leve ou torso nu, braçadeiras, sandálias ou pés descalços",
+          "itens_marcantes": "Manoplas, braçadeiras de metal, bandagens nos punhos"
+        },
+        {
+          "nome": "Lutador Marcial",
+          "descricao": "Segue uma arte marcial tradicional, com movimentos precisos e disciplinados, Veste o uniforme de sua escola",
+          "vestimenta": "Kimono ou vestes de treino, faixa colorida, headband, sandálias",
+          "itens_marcantes": "Nunchaku, bastão, shuriken (para treino)"
+        },
+        {
+          "nome": "Lutador Brutalista",
+          "descricao": "Usa força bruta, agarramentos e golpes devastadores, Tem físico avantajado e veste roupas simples",
+          "vestimenta": "Calça de couro, torso nu, cinto com caveiras, braçadeiras de metal, botas pesadas",
+          "itens_marcantes": "Punheiras de espinhos, cinto de força"
+        },
+        {
+          "nome": "Lutador Desgarrado",
+          "descricao": "Luta sujo, usando qualquer artifício para vencer, Veste roupas de rua, puídas e discretas",
+          "vestimenta": "Jaqueta de couro surrada, calças rasgadas, coturnos, luvas sem dedos, boné",
+          "itens_marcantes": "Soco inglês, corrente, caco de vidro"
+        },
+        {
+          "nome": "Lutador Campeão",
+          "descricao": "Ex-campeão de ringue, ainda mantém o glamour, Suas roupas são chamativas, com lurex e capas de espetáculo",
+          "vestimenta": "Short de lycra, capa de cetim, cinturão de campeão, luvas de boxe, tênis de ringue",
+          "itens_marcantes": "Cinturão, robe bordado, autógrafos"
+        }
+      ]
+    },
+    {
+      "classe": "Nobre",
+      "subclasses": [
+        {
+          "nome": "Nobre",
+          "descricao": "Indivíduo de berço privilegiado, com educação refinada e recursos, Veste roupas luxuosas, com tecidos nobres e joias",
+          "vestimenta": "Vestes de seda ou veludo, capa forrada de pele, joias de ouro, cinto com bolsa de moedas, espada decorativa",
+          "itens_marcantes": "Anel de sinete, carta de nobreza, moedas de ouro"
+        },
+        {
+          "nome": "Nobre Diplomata",
+          "descricao": "Hábil em negociações e intrigas, Veste-se elegantemente, mas de forma a não intimidar, com acessórios discretos",
+          "vestimenta": "Terno ou vestido de corte, capa discreta, joias sutis, cinto com documentos, pena de escrever",
+          "itens_marcantes": "Carta de crédito, selo pessoal, livro de etiqueta"
+        },
+        {
+          "nome": "Nobre Comandante",
+          "descricao": "Líder militar, treinado em estratégia, Usa armaduras refinadas e ostenta sua patente",
+          "vestimenta": "Armadura de placas com detalhes dourados, capa de comando, elmo com plumas, espada de general",
+          "itens_marcantes": "Estandarte, flauta de comando, mapa estratégico"
+        },
+        {
+          "nome": "Nobre Palaciano",
+          "descricao": "Vive entre intrigas da corte, sempre atento a tramas, Suas roupas são elegantes e cheias de detalhes que escondem mensagens",
+          "vestimenta": "Vestes ricamente bordadas, máscara de baile, leque, cinto com perfumes e venenos",
+          "itens_marcantes": "Leque codificado, perfume, veneno em anel"
+        },
+        {
+          "nome": "Nobre Político",
+          "descricao": "Atua nos meandros do poder, fazendo alianças, Veste-se de forma a agradar multidões, com roupas sóbrias mas imponentes",
+          "vestimenta": "Toga ou túnica formal, capa púrpura, cinto com documentos, anel de cargo",
+          "itens_marcantes": "Discurso escrito, lista de aliados, moedas para suborno"
+        },
+        {
+          "nome": "Nobre Jurista",
+          "descricao": "Conhece as leis e as usa a seu favor, Veste-se como um juiz ou advogado, com toga e pergaminhos",
+          "vestimenta": "Toga preta ou vermelha, capa de arminho, cinto com leis escritas, óculos de aro fino",
+          "itens_marcantes": "Código de leis, martelo de juiz, pena de escrever"
+        },
+        {
+          "nome": "Nobre Despojado",
+          "descricao": "Apesar de nobre, vive de forma simples e despreocupada, Suas roupas são confortáveis e informais, mas de bom tecido",
+          "vestimenta": "Camisa de linho, calças largas, colete simples, botas macias, chapéu de palha",
+          "itens_marcantes": "Copo de vinho, baralho, violão"
+        }
+      ]
+    },
+    {
+      "classe": "Paladino",
+      "subclasses": [
+        {
+          "nome": "Paladino",
+          "descricao": "Guerreiro sagrado, devoto a uma causa ou divindade, que une fé e combate, Veste armadura pesada com símbolos religiosos",
+          "vestimenta": "Armadura de placas com insígnias divinas, capa branca ou dourada, elmo com auréola, espada longa, escudo com símbolo sagrado",
+          "itens_marcantes": "Símbolo sagrado, espada da fé, livro de orações"
+        },
+        {
+          "nome": "Paladino Magnânimo",
+          "descricao": "Escolhido por um governante ou reino, sua lealdade é terrena, Sua armadura ostenta as cores do reino",
+          "vestimenta": "Armadura com brasão real, capa com as cores da casa, espada de cerimônia, elmo com coroa",
+          "itens_marcantes": "Brasão da família real, carta de nomeação"
+        },
+        {
+          "nome": "Paladino Benevolente",
+          "descricao": "Guiado pela bondade, não necessariamente por um deus, Sua armadura é simples mas bem cuidada",
+          "vestimenta": "Armadura de aço polido, capa branca, espada reta, escudo com coração ou mãos entrelaçadas",
+          "itens_marcantes": "Bolsa de esmolas, medalha de bondade"
+        },
+        {
+          "nome": "Paladino Juramentado",
+          "descricao": "Pertence a uma ordem religiosa e fez votos, Sua armadura tem os símbolos da ordem, e ele carrega um livro de votos",
+          "vestimenta": "Armadura com símbolos da ordem, capa com emblema, elmo com crista, espada de cerimônia",
+          "itens_marcantes": "Livro de votos, relicário da ordem"
+        },
+        {
+          "nome": "Paladino Consagrado",
+          "descricao": "Escolhido direto por um deus, age como seu avatar, Sua aparência pode ter traços divinos (brilho, aura)",
+          "vestimenta": "Armadura reluzente, capa dourada, auréola visível, espada flamejante ou luminosa",
+          "itens_marcantes": "Relíquia divina, fragmento de estrela"
+        },
+        {
+          "nome": "Paladino Arauto",
+          "descricao": "Dedicado a uma causa específica, como libertar um povo ou destruir uma ameaça, Sua armadura pode ter marcas dessa causa",
+          "vestimenta": "Armadura com cores da causa, capa com símbolo, espada de cruzado",
+          "itens_marcantes": "Estandarte da causa, carta de missão"
+        },
+        {
+          "nome": "Paladino Escolhido",
+          "descricao": "Destinado por uma profecia, seu caminho está traçado, Pode ter marcas de nascença ou símbolos proféticos",
+          "vestimenta": "Armadura com runas proféticas, capa com estrelas, espada de luz",
+          "itens_marcantes": "Pergaminho da profecia, amuleto do destino"
+        },
+        {
+          "nome": "Paladino Algoz",
+          "descricao": "Age contra seu próprio deus ou ordem, abraçando o caos, Sua armadura é escura e maculada, com símbolos invertidos",
+          "vestimenta": "Armadura negra ou enferrujada, capa rasgada, símbolo sagrado invertido, espada quebrada ou manchada",
+          "itens_marcantes": "Símbolo profanado, livro de heresias"
+        }
+      ]
+    },
+    {
+      "classe": "Pesquisador",
+      "subclasses": [
+        {
+          "nome": "Pesquisador",
+          "descricao": "Estudioso do mundo, busca conhecimento em todas as áreas, Veste roupas práticas de campo, com muitos bolsos para cadernos e instrumentos",
+          "vestimenta": "Jaqueta de couro ou lona, calças resistentes, cinto com cadernos e bússola, chapéu de explorador, mochila",
+          "itens_marcantes": "Caderno de anotações, lupa, bússola, caneta"
+        },
+        {
+          "nome": "Pesquisador Biólogo",
+          "descricao": "Estuda seres vivos, sua anatomia e comportamento, Carrega frascos para amostras e redes de captura",
+          "vestimenta": "Roupas de campo, colete com frascos, rede, luvas de látex, chapéu de explorador",
+          "itens_marcantes": "Frasco de amostras, rede de borboletas, manual de zoologia"
+        },
+        {
+          "nome": "Pesquisador Geólogo",
+          "descricao": "Estuda rochas, minerais e formações terrestres, Carrega martelo de geólogo e frascos para amostras de solo",
+          "vestimenta": "Roupas resistentes, cinto com martelo e lupa, mochila com amostras, capacete com lanterna",
+          "itens_marcantes": "Martelo de geólogo, lupa, mapa geológico"
+        },
+        {
+          "nome": "Pesquisador Químico",
+          "descricao": "Manipula substâncias e reações químicas, Veste avental de laboratório e carrega frascos e reagentes",
+          "vestimenta": "Avental branco, óculos de proteção, luvas de borracha, cinto com frascos, máscara",
+          "itens_marcantes": "Conjunto de frascos, alambique portátil, livro de fórmulas"
+        },
+        {
+          "nome": "Pesquisador Físico",
+          "descricao": "Estuda as leis da física e da energia, Carrega instrumentos de medição como voltímetros, manivelas e ímãs",
+          "vestimenta": "Roupas práticas, colete com instrumentos, óculos de proteção, luvas isolantes",
+          "itens_marcantes": "Multímetro, ímã, bobina de cobre"
+        },
+        {
+          "nome": "Pesquisador Meteorologista",
+          "descricao": "Estuda o clima e os fenômenos atmosféricos, Carrega instrumentos como barômetros, anemômetros e pipas",
+          "vestimenta": "Roupas impermeáveis, capa de chuva, chapéu de abas, cinto com instrumentos meteorológicos",
+          "itens_marcantes": "Barômetro, anemômetro, pipa de sondagem"
+        }
+      ]
+    },
+    {
+      "classe": "Frade",
+      "subclasses": [
+        {
+          "nome": "Frade",
+          "descricao": "Religioso erudito que estuda as escrituras e oferece conforto espiritual, Veste hábito simples e carrega um livro sagrado",
+          "vestimenta": "Hábito de tecido grosseiro, cordão na cintura, capuz, sandálias, livro de orações, terço",
+          "itens_marcantes": "Bíblia ou livro sagrado, terço, vela"
+        },
+        {
+          "nome": "Frade Monástico",
+          "descricao": "Vive em mosteiro, dedicado à meditação e estudo, Seu hábito é ainda mais simples, e ele pode ter tonsura",
+          "vestimenta": "Hábito marrom ou cinza, cordão, sandálias, capuz, cajado simples",
+          "itens_marcantes": "Livro de meditações, tigela de esmolas"
+        },
+        {
+          "nome": "Frade Escriba",
+          "descricao": "Especialista em caligrafia e cópia de manuscritos, Suas mãos estão sempre manchadas de tinta, e ele carrega pena e pergaminhos",
+          "vestimenta": "Hábito com mangas largas, cinto com tinteiro e pena, óculos, capuz",
+          "itens_marcantes": "Pena de ganso, tinteiro, pergaminhos em branco"
+        },
+        {
+          "nome": "Frade Divino",
+          "descricao": "Canaliza diretamente o poder de sua divindade, realizando milagres, Pode ter uma auréola ou brilho suave",
+          "vestimenta": "Hábito branco ou dourado, capa com símbolos divinos, cinto com relicário, sandálias",
+          "itens_marcantes": "Relicário, água benta, incenso"
+        },
+        {
+          "nome": "Frade Natural",
+          "descricao": "Vê a natureza como manifestação divina, Seu hábito é feito de fibras naturais, e ele carrega elementos da natureza",
+          "vestimenta": "Hábito de linho cru, cinto de cipó, colar de sementes, cajado de madeira",
+          "itens_marcantes": "Sementes, água de rio, pena de ave"
+        },
+        {
+          "nome": "Frade Clínico",
+          "descricao": "Dedicado à cura física e espiritual, Carrega ervas, unguentos e instrumentos médicos",
+          "vestimenta": "Hábito claro, cinto com bolsas de ervas, frascos de óleos, tesoura e ataduras",
+          "itens_marcantes": "Kit de primeiros socorros, ervas medicinais, bálsamo"
+        }
+      ]
+    },
+    {
+      "classe": "Treinador",
+      "subclasses": [
+        {
+          "nome": "Treinador",
+          "descricao": "Especialista em domar e treinar criaturas, formando laços com elas, Veste roupas práticas de campo, com muitos bolsos para petiscos e apetrechos",
+          "vestimenta": "Jaqueta de couro, calças resistentes, cinto com bolsas, luvas de couro, chapéu de abas, apito",
+          "itens_marcantes": "Apito, petiscos, coleira, rede de captura"
+        },
+        {
+          "nome": "Treinador de Captura",
+          "descricao": "Usa dispositivos para aprisionar criaturas, como esferas ou armadilhas, Carrega diversos desses dispositivos",
+          "vestimenta": "Roupas leves, cinto com esferas de captura, coldre para dispositivo, luvas de couro",
+          "itens_marcantes": "Esfera de captura, armadilha portátil, manual de criaturas"
+        },
+        {
+          "nome": "Treinador Compilador",
+          "descricao": "Possui um vínculo espiritual com uma criatura desde o nascimento, Pode ter marcas que representam esse laço",
+          "vestimenta": "Roupas com símbolos do vínculo, colar com o símbolo da criatura, braçadeiras de couro",
+          "itens_marcantes": "Símbolo do vínculo, diário da criatura"
+        },
+        {
+          "nome": "Treinador Bestial",
+          "descricao": "Doma monstros selvagens, usando métodos mais brutais, Sua aparência é rústica, com cicatrizes de encontros",
+          "vestimenta": "Peles e couros, cinto com correntes, braçadeiras de metal, capacete de caveira de animal",
+          "itens_marcantes": "Corrente de doma, machado, pele de monstro"
+        },
+        {
+          "nome": "Treinador Vinculador",
+          "descricao": "Faz pactos com criaturas de outros planos, que o servem em troca de algo, Carrega símbolos de pacto e oferendas",
+          "vestimenta": "Vestes rituais, cinto com oferendas, amuletos de pacto, capa escura",
+          "itens_marcantes": "Livro de pactos, oferendas, sino de invocação"
+        }
+      ]
+    },
+    {
+      "classe": "Acrobata",
+      "subclasses": [
+        {
+          "nome": "Acrobata",
+          "descricao": "Artista do movimento, ágil e flexível, Veste roupas justas e leves que permitem total liberdade de movimentos",
+          "vestimenta": "Malha justa, sapatilhas, cinto com bolsas pequenas, faixas nos punhos, capa leve",
+          "itens_marcantes": "Corda elástica, bolas de malabarismo, pernas de pau"
+        },
+        {
+          "nome": "Acrobata Arlequim",
+          "descricao": "Usa máscara e roupas de arlequim, confundindo e distraindo, Sua performance é fundamental",
+          "vestimenta": "Roupa colorida de losangos, máscara, chifres ou guizos, sapatos pontudos",
+          "itens_marcantes": "Máscara expressiva, leque, sinos"
+        },
+        {
+          "nome": "Acrobata Percursor",
+          "descricao": "Mestre em parkour e fugas, Veste roupas urbanas e práticas, com tênis de corrida",
+          "vestimenta": "Moletom, calças cargo, tênis, mochila pequena, luvas sem dedos",
+          "itens_marcantes": "Corda, gancho de escalada, tênis de parkour"
+        },
+        {
+          "nome": "Acrobata Espião",
+          "descricao": "Infiltrar-se é sua especialidade, Veste roupas discretas que não chamam atenção, mas permitem agilidade",
+          "vestimenta": "Roupa escura e justa, capuz, luvas finas, botas silenciosas, cinto com ferramentas de infiltração",
+          "itens_marcantes": "Gazuas, corda de escalada, veneno"
+        },
+        {
+          "nome": "Acrobata Circense",
+          "descricao": "Artista de circo, domina trapézio, malabarismo e palhaçaria, Suas roupas são chamativas e coloridas",
+          "vestimenta": "Roupa de circo colorida, lantejoulas, sapatos grandes, nariz de palhaço (opcional)",
+          "itens_marcantes": "Bolas de malabarismo, aros, pernas de pau"
+        }
+      ]
+    },
+    {
+      "classe": "Alquimista",
+      "subclasses": [
+        {
+          "nome": "Alquimista",
+          "descricao": "Mestre na transformação da matéria, cria poções e elixires, Veste avental de laboratório e carrega frascos e reagentes",
+          "vestimenta": "Avental de couro ou linho, óculos de proteção, luvas de couro, cinto com frascos, máscara",
+          "itens_marcantes": "Alambique portátil, frascos de vidro, livro de receitas"
+        },
+        {
+          "nome": "Alquimista de Poções",
+          "descricao": "Foco na criação de poções curativas, fortalecedoras ou venenosas, Carrega diversos frascos coloridos",
+          "vestimenta": "Avental com manchas coloridas, cinto com frascos de vários tamanhos, luvas de couro, óculos",
+          "itens_marcantes": "Conjunto de frascos, colher de medição, funil"
+        },
+        {
+          "nome": "Alquimista Transmutado",
+          "descricao": "Usa a própria mana para transmutar objetos, podendo até alterar sua forma, Pode ter partes do corpo modificadas",
+          "vestimenta": "Roupas simples, mas com muitos bolsos para materiais, luvas de metal, óculos de proteção",
+          "itens_marcantes": "Pedra filosofal (réplica), cadinho, martelo de transmutação"
+        },
+        {
+          "nome": "Alquimista de Essência",
+          "descricao": "Manipula a essência mágica dos componentes, podendo transformar veneno em remédio, Veste roupas com símbolos alquímicos",
+          "vestimenta": "Túnica com runas alquímicas, cinto com frascos de essências, capa leve, luvas finas",
+          "itens_marcantes": "Essências elementais, cadinho de cristal, livro de essências"
+        }
+      ]
+    },
+    {
+      "classe": "Artesão",
+      "subclasses": [
+        {
+          "nome": "Artesão",
+          "descricao": "Hábil em criar e consertar objetos, desde armas até utensílios, Veste avental de couro e carrega ferramentas diversas",
+          "vestimenta": "Avental de couro, camisa de manga comprida, calças resistentes, cinto com martelo, alicate e chaves",
+          "itens_marcantes": "Martelo, lima, tenaz, bigorna portátil"
+        },
+        {
+          "nome": "Artesão Forjador",
+          "descricao": "Especialista em metalurgia, forja armas e armaduras, Veste avental resistente ao fogo e carrega martelo e tenaz",
+          "vestimenta": "Avental de couro grosso, luvas de amianto, óculos de proteção, perneiras de couro, martelo de ferreiro",
+          "itens_marcantes": "Martelo de ferreiro, bigorna, tenaz, forja portátil"
+        },
+        {
+          "nome": "Artesão Carpinteiro",
+          "descricao": "Trabalha com madeira, construindo móveis, armas e estruturas, Carrega serras, formões e martelos",
+          "vestimenta": "Avental de couro, camisa simples, calças, cinto com serrote e formão, botas",
+          "itens_marcantes": "Serrote, formão, plaina, esquadro"
+        },
+        {
+          "nome": "Artesão Titereiro",
+          "descricao": "Cria e controla fantoches e marionetes, que podem ser usados em combate, Veste roupas de artista, com muitos fios",
+          "vestimenta": "Roupas coloridas, cinto com carretéis de linha, luvas finas, capa com bolsos para fantoches",
+          "itens_marcantes": "Marionete de combate, linhas encantadas, caixa de música"
+        }
+      ]
+    },
+    {
+      "classe": "Atirador",
+      "subclasses": [
+        {
+          "nome": "Atirador",
+          "descricao": "Especialista em ataques à distância, com precisão mortal, Veste roupas leves e carrega uma variedade de projéteis",
+          "vestimenta": "Roupas de couro leve, cinto com coldre ou aljava, capa de camuflagem, luvas de tiro",
+          "itens_marcantes": "Arco, besta, pistola, aljava"
+        },
+        {
+          "nome": "Atirador Arqueiro",
+          "descricao": "Mestre no arco e flecha, Veste roupas que não atrapalhem o movimento dos braços, com dedeiras",
+          "vestimenta": "Túnica leve, braçadeiras de couro, luvas com dedos livres, aljava nas costas, capuz",
+          "itens_marcantes": "Arco longo, flechas especiais, dedeira"
+        },
+        {
+          "nome": "Atirador Automático",
+          "descricao": "Usa bestas e armas de repetição, que exigem força mas são precisas, Veste armaduras médias",
+          "vestimenta": "Couraça de couro, cinto com parafusos, besta pendurada, luvas de couro",
+          "itens_marcantes": "Besta de repetição, parafusos, cranequin"
+        },
+        {
+          "nome": "Atirador Munição",
+          "descricao": "Usa armas improvisadas como estilingues e lançadores, Carrega todo tipo de projétil (pedras, bolas de metal)",
+          "vestimenta": "Roupas simples, cinto com bolsas de munição, estilingue no cinto, chapéu",
+          "itens_marcantes": "Estilingue, funda, bolas de metal"
+        },
+        {
+          "nome": "Atirador de Gatilho",
+          "descricao": "Especialista em armas de fogo, com rápida pontaria, Veste casacos compridos e coldres",
+          "vestimenta": "Casaco de couro, coldres cruzados, cinto de balas, chapéu de caubói, luvas de couro",
+          "itens_marcantes": "Revólver, mosquete, balas de prata"
+        },
+        {
+          "nome": "Atirador Eclético",
+          "descricao": "Versátil, usa qualquer arma à distância com proficiência, Carrega um arsenal variado",
+          "vestimenta": "Jaqueta tática, cinto com múltiplos coldres e aljavas, mochila com munição variada",
+          "itens_marcantes": "Arco, besta, pistola, estilingue"
+        }
+      ]
+    },
+    {
+      "classe": "Cartomante",
+      "subclasses": [
+        {
+          "nome": "Cartomante",
+          "descricao": "Usa um baralho para adivinhação e magia, Veste roupas místicas, com muitos símbolos e véus",
+          "vestimenta": "Vestes escuras ou coloridas, capa bordada com estrelas, cinto com baralho, lenço na cabeça, brincos",
+          "itens_marcantes": "Baralho de tarô, cristal de adivinhação, incenso"
+        },
+        {
+          "nome": "Cartomante Divinador",
+          "descricao": "Foca na leitura do futuro através das cartas, Veste-se de forma a inspirar confiança e mistério",
+          "vestimenta": "Vestes longas, turbante, capa com símbolos zodiacais, cinto com baralho e pergaminhos",
+          "itens_marcantes": "Baralho de tarô, bola de cristal, livro de interpretação"
+        },
+        {
+          "nome": "Cartomante Infusor",
+          "descricao": "Usa as cartas como foco para magia, canalizando poder através delas, Suas cartas podem brilhar",
+          "vestimenta": "Vestes com bolsos para cartas, luvas finas, capa escura, cinto com baralho encantado",
+          "itens_marcantes": "Baralho mágico, foco de cristal, incenso"
+        },
+        {
+          "nome": "Cartomante Rúnico",
+          "descricao": "Suas cartas são como runas, cortando e conduzindo magia, Ele as arremessa como armas",
+          "vestimenta": "Roupas práticas, cinto com cartas afiadas, braçadeiras de couro, luvas de metal",
+          "itens_marcantes": "Cartas laminadas, estojo de couro, lâmina de corte"
+        },
+        {
+          "nome": "Cartomante Vinculador",
+          "descricao": "As cartas são escolhidas pelos deuses, e ele as usa para invocar poderes divinos, Sua vestimenta é cerimonial",
+          "vestimenta": "Vestes sacerdotais, capa com imagens de deuses, cinto com baralho sagrado, tiara",
+          "itens_marcantes": "Baralho divino, estátua de deus, incenso"
+        }
+      ]
+    },
+    {
+      "classe": "Dançarina",
+      "subclasses": [
+        {
+          "nome": "Dançarina",
+          "descricao": "Usa a dança como expressão e magia, encantando e confundindo, Veste roupas leves e fluidas, com muitos véus",
+          "vestimenta": "Vestido leve e esvoaçante, véus, cinto com sinos, sandálias, braceletes e tornozeleiras",
+          "itens_marcantes": "Véu encantado, sinos, pandeiro"
+        },
+        {
+          "nome": "Dançarina do Círculo",
+          "descricao": "Danças clássicas e graciosas, com passos precisos, Veste tutu ou roupas de balé, com sapatilhas de ponta",
+          "vestimenta": "Tutu, collant, sapatilhas de ponta, tiara, luvas de renda",
+          "itens_marcantes": "Sapatilhas encantadas, fita de cetim"
+        },
+        {
+          "nome": "Dançarina dos Esquadros",
+          "descricao": "Dança marcial, com movimentos fortes e golpes, Veste roupas que permitem agressividade, como calças largas e tops",
+          "vestimenta": "Top esportivo, calças largas, faixas nos punhos, tênis de dança, cinto com peso",
+          "itens_marcantes": "Punheiras de metal, tornozeleiras"
+        },
+        {
+          "nome": "Dançarina dos Triângulos",
+          "descricao": "Dança em pares, ágil e acrobática, Veste roupas justas e coloridas, com sapatos de salto ou sapatilhas",
+          "vestimenta": "Vestido justo, sapatos de salto, luvas, máscara de baile",
+          "itens_marcantes": "Leque, máscara"
+        },
+        {
+          "nome": "Dançarina da Estrela",
+          "descricao": "Performance que intimida e inspira, quase como uma diva pop, Veste roupas extravagantes e brilhantes",
+          "vestimenta": "Vestido de gala com lantejoulas, capa de plumas, tiaras, saltos altos",
+          "itens_marcantes": "Microfone encantado, capa de estrelas"
+        },
+        {
+          "nome": "Dançarina de Raiz",
+          "descricao": "Danças folclóricas e tribais, conectadas aos ancestrais, Veste roupas étnicas, com muitos adereços naturais",
+          "vestimenta": "Saia de palha, colares de sementes, pinturas corporais, cocar de penas, tornozeleiras de chocalhos",
+          "itens_marcantes": "Chocalhos, máscara tribal"
+        },
+        {
+          "nome": "Dançarina das Ondas",
+          "descricao": "Dança que expressa sofrimento e dor, curando e amedrontando, Veste roupas escuras e pesadas, com movimentos lentos",
+          "vestimenta": "Vestido preto esvoaçante, véu cobrindo o rosto, luvas longas, pés descalços",
+          "itens_marcantes": "Véu de lágrimas, incenso de mirra"
+        }
+      ]
+    },
+    {
+      "classe": "Espiritualista",
+      "subclasses": [
+        {
+          "nome": "Espiritualista",
+          "descricao": "Conecta-se com o mundo espiritual, vendo e interagindo com almas, Veste roupas escuras ou rituais, com muitos símbolos espirituais",
+          "vestimenta": "Vestes negras ou roxas, capa com símbolos de proteção, cinto com sinos, colar de cristais",
+          "itens_marcantes": "Cristal de quartzo, sino, incenso"
+        },
+        {
+          "nome": "Espiritualista Inspetor",
+          "descricao": "Já morreu e voltou, vendo o outro lado, Pode ter marcas de sua morte (cicatrizes, palidez)",
+          "vestimenta": "Roupas sóbrias, capa escura, cinto com objetos do além, luvas de renda",
+          "itens_marcantes": "Medalhão de retorno, diário de visões"
+        },
+        {
+          "nome": "Espiritualista Híbrido",
+          "descricao": "Seu corpo é uma fusão de material e espiritual, podendo ter partes etéreas, Sua aparência é estranha e mutante",
+          "vestimenta": "Roupas que mostram as partes híbridas, muitas vezes rasgadas, amuletos de equilíbrio",
+          "itens_marcantes": "Fragmento de alma, corrente de ligação"
+        },
+        {
+          "nome": "Espiritualista Ceifador",
+          "descricao": "Combate criaturas espirituais com armas feitas de sua própria essência, Veste roupas de combate, mas com aura espiritual",
+          "vestimenta": "Armadura leve com símbolos espirituais, capa escura, luvas, braçadeiras com runas",
+          "itens_marcantes": "Foice espiritual, amuleto de proteção"
+        },
+        {
+          "nome": "Espiritualista Ocultista",
+          "descricao": "Vê a verdade oculta por trás da realidade, muitas vezes enlouquecedora, Seus olhos podem ser estranhos, e ele veste roupas cobertas de símbolos ocultos",
+          "vestimenta": "Vestes com símbolos proibidos, capuz, máscara, cinto com livros antigos",
+          "itens_marcantes": "Livro de segredos, lente de revelação"
+        },
+        {
+          "nome": "Espiritualista Dominador",
+          "descricao": "Controla espíritos e os usa como marionetes, Carrega símbolos de dominação e correntes espirituais",
+          "vestimenta": "Vestes escuras com correntes, cinto com amuletos de controle, luvas de metal",
+          "itens_marcantes": "Corrente de almas, cetro de comando"
+        },
+        {
+          "nome": "Espiritualista Mediúnico",
+          "descricao": "Canaliza espíritos para obter conhecimento e poder, Durante a canalização, sua aparência pode mudar",
+          "vestimenta": "Vestes brancas, véu, cinto com objetos de culto, sandálias",
+          "itens_marcantes": "Cadeira de médium, tabuleiro de ouija"
+        }
+      ]
+    },
+    {
+      "classe": "Gladiador",
+      "subclasses": [
+        {
+          "nome": "Gladiador",
+          "descricao": "Lutador de arena, treinado para o espetáculo e a sobrevivência, Veste armaduras parciais e chamativas, com muitas tiras",
+          "vestimenta": "Armadura de gladiador (manica, subligar), cinto largo, braçadeiras, grevas, capacete de arena",
+          "itens_marcantes": "Espada curta, rede, tridente, escudo retangular"
+        },
+        {
+          "nome": "Gladiador Arruaceiro",
+          "descricao": "Lutador de rua, violento e sem regras, Veste roupas esfarrapadas, com tiras de couro e cicatrizes",
+          "vestimenta": "Calça rasgada, colete de couro surrado, luvas sem dedos, botas pesadas, bandana",
+          "itens_marcantes": "Soco inglês, corrente, faca"
+        },
+        {
+          "nome": "Gladiador Performático",
+          "descricao": "Foco no show e na plateia, com movimentos acrobáticos, Veste roupas coloridas e cheias de brilho",
+          "vestimenta": "Armadura dourada ou prateada, capa de cetim, plumas no capacete, lantejoulas",
+          "itens_marcantes": "Espada de teatro, escudo decorativo"
+        },
+        {
+          "nome": "Gladiador Imobilizador",
+          "descricao": "Especialista em agarramentos e imobilizações, Veste roupas leves e justas, sem armaduras pesadas",
+          "vestimenta": "Calça justa, faixa, torso nu ou colete leve, braçadeiras de couro",
+          "itens_marcantes": "Rede, corda, algemas"
+        },
+        {
+          "nome": "Gladiador Implacável",
+          "descricao": "Criado como experimento, tem força sobre-humana, Sua aparência pode ter cicatrizes de modificações",
+          "vestimenta": "Armadura pesada com marcas de experimentos, cinto com correntes, elmo fechado",
+          "itens_marcantes": "Manoplas de metal, cinto de força"
+        },
+        {
+          "nome": "Gladiador Instável",
+          "descricao": "Veloz como um turbilhão, desferindo múltiplos golpes, Veste roupas leves que permitem rapidez",
+          "vestimenta": "Roupa de couro leve, botas ágeis, luvas de boxe, cinto com pesos",
+          "itens_marcantes": "Sapatilhas de velocidade, punheiras"
+        },
+        {
+          "nome": "Gladiador Explosivo",
+          "descricao": "Focado em pressão e força, impede o inimigo de revidar, Veste armaduras médias e tem porte intimidador",
+          "vestimenta": "Armadura de couro grossa, ombreiras grandes, cinto com caveiras, botas pesadas",
+          "itens_marcantes": "Marreta, machado grande"
+        },
+        {
+          "nome": "Gladiador Tático",
+          "descricao": "Analisa o oponente e explora fraquezas, Veste armaduras leves e carrega vários tipos de arma",
+          "vestimenta": "Couraça leve, cinto com diversas armas (espada, adaga, rede), capa, elmo aberto",
+          "itens_marcantes": "Manual de táticas, várias armas"
+        }
+      ]
+    },
+    {
+      "classe": "Invocador",
+      "subclasses": [
+        {
+          "nome": "Invocador",
+          "descricao": "Traz criaturas de outros planos para lutar ao seu lado, Veste roupas rituais, com muitos símbolos de invocação",
+          "vestimenta": "Vestes escuras com círculos mágicos bordados, capa, cinto com giz e velas, amuletos",
+          "itens_marcantes": "Giz de invocação, velas, livro de criaturas"
+        },
+        {
+          "nome": "Invocador Sobrenatural",
+          "descricao": "Invoca criaturas de outros planos, que podem ser elementais ou demoníacas, Sua vestimenta reflete o plano",
+          "vestimenta": "Vestes com símbolos do plano invocado (fogo, gelo, etc.), capa, cinto com oferendas",
+          "itens_marcantes": "Foco planar, cristal de invocação"
+        },
+        {
+          "nome": "Invocador Grilhões",
+          "descricao": "Faz pactos com inimigos derrotados, prendendo suas almas, Carrega correntes e grilhões simbólicos",
+          "vestimenta": "Vestes escuras com correntes, cinto com grilhões, luvas de metal, máscara",
+          "itens_marcantes": "Corrente de almas, livro de pactos"
+        },
+        {
+          "nome": "Invocador Ritualista",
+          "descricao": "Usa rituais antigos para chamar seres ancestrais, Veste roupas cerimoniais e carrega itens de culto",
+          "vestimenta": "Vestes brancas ou vermelhas, capa com símbolos ancestrais, cinto com punhal e taça",
+          "itens_marcantes": "Punhal ritual, taça de sangue, livro de rituais"
+        },
+        {
+          "nome": "Invocador de Tinta",
+          "descricao": "Desenha criaturas com tinta mágica, que ganham vida, Suas roupas estão sempre manchadas de tinta",
+          "vestimenta": "Avental de artista, camisa manchada, cinto com pincéis e tinteiros, boina",
+          "itens_marcantes": "Pincel mágico, tinta especial, caderno de esboços"
+        },
+        {
+          "nome": "Invocador de Vultos",
+          "descricao": "Projeta sua própria essência para criar um vulto sombrio, Sua aparência pode ter sombras dançando ao redor",
+          "vestimenta": "Vestes escuras e esvoaçantes, capa de sombras, cinto com amuletos de proteção",
+          "itens_marcantes": "Amuleto de sombra, espelho negro"
+        }
+      ]
+    },
+    {
+      "classe": "Mensageiro",
+      "subclasses": [
+        {
+          "nome": "Mensageiro",
+          "descricao": "Correio e entregador, ágil e resistente, Veste roupas práticas para corrida, com bolsas para cartas",
+          "vestimenta": "Túnica curta, calças leves, botas de corrida, cinto com bolsa de couro, capa leve",
+          "itens_marcantes": "Bolsa de cartas, mapa, apito"
+        },
+        {
+          "nome": "Mensageiro Velocista",
+          "descricao": "Corredor nato, capaz de percorrer longas distâncias rapidamente, Veste roupas leves e tênis de corrida",
+          "vestimenta": "Short, camiseta leve, tênis, cinto com garrafa d'água, boné",
+          "itens_marcantes": "Tênis de corrida, hidratante"
+        },
+        {
+          "nome": "Mensageiro Psíquico",
+          "descricao": "Transmite mensagens com a mente, Veste roupas que protegem sua mente, com símbolos psíquicos",
+          "vestimenta": "Túnica de cores suaves, capa com runas mentais, cinto com cristais, tiara",
+          "itens_marcantes": "Cristal de telepatia, diário mental"
+        },
+        {
+          "nome": "Mensageiro de Segredos",
+          "descricao": "Coleta e vende informações nas ruas, Veste roupas discretas, com muitos bolsos escondidos",
+          "vestimenta": "Roupas comuns e surradas, capa com capuz, cinto com documentos falsos, luvas",
+          "itens_marcantes": "Documentos falsos, moedas, gazua"
+        },
+        {
+          "nome": "Mensageiro de Conexões",
+          "descricao": "Vê e manipula as conexões entre pessoas e coisas, Pode ter olhos especiais ou usar amuletos",
+          "vestimenta": "Vestes com fios dourados, cinto com nós, capa com padrões de teia",
+          "itens_marcantes": "Rede de conexões, livro de contatos"
+        },
+        {
+          "nome": "Mensageiro Elemental",
+          "descricao": "Usa elementos para enviar mensagens (fumaça, luz, vento), Veste roupas que refletem seu elemento",
+          "vestimenta": "Depende do elemento: para fogo, vermelho; para ar, azul claro; para água, verde-azulado; para terra, marrom",
+          "itens_marcantes": "Foco elemental, espelho de sinais"
+        }
+      ]
+    },
+    {
+      "classe": "Mercenário",
+      "subclasses": [
+        {
+          "nome": "Mercenário",
+          "descricao": "Soldado profissional que vende seus serviços, Veste armaduras práticas e carrega armas versáteis, sem ostentação",
+          "vestimenta": "Armadura de couro ou cota de malha, capa surrada, cinto com espada e adaga, botas de combate",
+          "itens_marcantes": "Contrato de serviço, bolsa de moedas"
+        },
+        {
+          "nome": "Mercenário Indomável",
+          "descricao": "Veterano de inúmeras batalhas, praticamente não sente dor, Sua armadura é cheia de cicatrizes e remendos",
+          "vestimenta": "Armadura gasta e amassada, capa rasgada, cinto com troféus, elmo com marcas",
+          "itens_marcantes": "Cicatrizes, medalhas de guerra"
+        },
+        {
+          "nome": "Mercenário de Recompensas",
+          "descricao": "Caçador de criminosos, frio e metódico, Veste roupas que permitem camuflagem e carrega cordas e algemas",
+          "vestimenta": "Roupas escuras, capa de camuflagem, cinto com algemas e corda, capuz",
+          "itens_marcantes": "Algemas, recompensa em fichas"
+        },
+        {
+          "nome": "Mercenário Segurança",
+          "descricao": "Protege pessoas e locais, treinado para ação rápida, Veste armaduras leves mas resistentes, com distintivo",
+          "vestimenta": "Couraça de couro, capa com símbolo da organização, cinto com armas, elmo aberto",
+          "itens_marcantes": "Distintivo, apito"
+        },
+        {
+          "nome": "Mercenário Abominável",
+          "descricao": "Modificado por magia para ser uma arma viva contra magos, Pode ter partes artificiais ou mutações",
+          "vestimenta": "Armadura com runas antimagia, cinto com amuletos de proteção, luvas de metal",
+          "itens_marcantes": "Amuleto antimagia, pergaminho de anulação"
+        },
+        {
+          "nome": "Mercenário Executor",
+          "descricao": "Carrasco especializado em execuções, Veste roupas escuras e carrega uma arma imponente (machado, espada larga)",
+          "vestimenta": "Capuz preto, túnica escura, cinto com corda, machado de execução, luvas de couro",
+          "itens_marcantes": "Machado de carrasco, capuz"
+        },
+        {
+          "nome": "Mercenário de Octanagem",
+          "descricao": "Piloto de veículos e especialista em fugas, Veste roupas de piloto, com capacete e luvas de couro",
+          "vestimenta": "Jaqueta de couro de piloto, calças resistentes, botas, capacete, óculos de proteção",
+          "itens_marcantes": "Chave de fenda, mapa de estradas"
+        }
+      ]
+    },
+    {
+      "classe": "Monge",
+      "subclasses": [
+        {
+          "nome": "Monge",
+          "descricao": "Disciplinado, usa a energia interior (ki) para aprimorar corpo e mente, Veste roupas simples de treino",
+          "vestimenta": "Vestes de treino (gi), faixa na cintura, sandálias, braçadeiras de pano",
+          "itens_marcantes": "Cajado, rosário de contas"
+        },
+        {
+          "nome": "Monge Espalmado",
+          "descricao": "Usa as palmas das mãos para golpes poderosos e rajadas de vento, Veste roupas que deixam as mãos livres",
+          "vestimenta": "Vestes simples, mangas curtas, faixa, braçadeiras de couro, sandálias",
+          "itens_marcantes": "Manoplas de madeira"
+        },
+        {
+          "nome": "Monge do Foco",
+          "descricao": "Projeta sua energia em esferas ou rajadas, Veste roupas que facilitam a meditação, com muitos tecidos",
+          "vestimenta": "Vestes largas, capuz, cinto com sinos, sandálias, braceletes de metal",
+          "itens_marcantes": "Bola de foco (cristal), incenso"
+        },
+        {
+          "nome": "Monge de Silêncio",
+          "descricao": "Move-se em silêncio e influencia mentes, Veste roupas escuras e discretas, com capuz",
+          "vestimenta": "Vestes escuras, capuz, luvas, botas macias, cinto com amuletos de silêncio",
+          "itens_marcantes": "Amuleto de silêncio, incenso de calma"
+        },
+        {
+          "nome": "Monge Selvagem",
+          "descricao": "Imita os movimentos dos animais, com agilidade e ferocidade, Veste peles e penas",
+          "vestimenta": "Pele de animal, calças de couro, braçadeiras de osso, pinturas corporais",
+          "itens_marcantes": "Garras de animal, pena de águia"
+        },
+        {
+          "nome": "Monge Transcendente",
+          "descricao": "Canaliza energia divina em seus golpes, Sua aparência pode ter uma aura sutil",
+          "vestimenta": "Vestes brancas ou douradas, faixa colorida, sandálias, auréola de luz",
+          "itens_marcantes": "Livro de meditação, relicário"
+        },
+        {
+          "nome": "Monge Sinérgico",
+          "descricao": "Usa telecinese para mover objetos e atacar, Veste roupas leves e carrega itens que levita",
+          "vestimenta": "Vestes fluidas, cinto com pedras flutuantes, braceletes de metal",
+          "itens_marcantes": "Pedras flutuantes, foco de telecinese"
+        },
+        {
+          "nome": "Monge Erudito",
+          "descricao": "Combina conhecimento e luta, usando técnicas ancestrais, Veste roupas de estudioso, com livros",
+          "vestimenta": "Vestes de erudito, capa, cinto com pergaminhos, óculos, sandálias",
+          "itens_marcantes": "Livro de técnicas, pena"
+        }
+      ]
+    },
+    {
+      "classe": "Shinobi",
+      "subclasses": [
+        {
+          "nome": "Shinobi",
+          "descricao": "Ninja, mestre em furtividade e técnicas secretas, Veste roupas escuras e justas, com muitos compartimentos",
+          "vestimenta": "Traje ninja escuro (shinobi shozoku), luvas, botas macias, cinto com shurikens e kunais, capuz",
+          "itens_marcantes": "Shuriken, kunai, bomba de fumaça"
+        },
+        {
+          "nome": "Shinobi dos Sussurros",
+          "descricao": "Especialista em desaparecer e trocar de lugar, Veste roupas que se confundem com as sombras",
+          "vestimenta": "Traje preto fosco, capa de camuflagem, luvas, botas, cinto com bombas de fumaça",
+          "itens_marcantes": "Bomba de fumaça, kunai de troca"
+        },
+        {
+          "nome": "Shinobi dos Disfarces",
+          "descricao": "Mestre em disfarces e enganos, Carrega vários kits de maquiagem e roupas",
+          "vestimenta": "Roupas neutras e modulares, cinto com perucas e maquiagem, capa reversível",
+          "itens_marcantes": "Kit de disfarces, máscaras faciais"
+        },
+        {
+          "nome": "Shinobi dos Caminhos",
+          "descricao": "Usa técnicas elementais, imbuindo seus ataques com elementos, Veste roupas com símbolos elementais",
+          "vestimenta": "Traje com kanjis elementais, cinto com pergaminhos, luvas com selos",
+          "itens_marcantes": "Pergaminho elemental, kunai elemental"
+        },
+        {
+          "nome": "Shinobi Tecnólogo",
+          "descricao": "Mistura tecnologia com ninjutsu, usando aparelhos avançados, Veste roupas com equipamentos eletrônicos",
+          "vestimenta": "Traje tático com fios, óculos de visão noturna, cinto com granadas e dispositivos",
+          "itens_marcantes": "Granada de fumaça eletrônica, kunai explosiva"
+        },
+        {
+          "nome": "Shinobi Invasor",
+          "descricao": "Foco em invadir locais protegidos, com ferramentas de escalada e arrombamento, Veste roupas práticas",
+          "vestimenta": "Roupa escura, cinto com gazuas e cordas, gancho de escalada, luvas de escalada",
+          "itens_marcantes": "Gancho de escalada, gazuas, corda"
+        }
+      ]
+    },
+    {
+      "classe": "Teletransportador",
+      "subclasses": [
+        {
+          "nome": "Teletransportador",
+          "descricao": "Capaz de se mover instantaneamente pelo espaço, Veste roupas práticas, muitas vezes com elementos que lembram portais",
+          "vestimenta": "Vestes com padrões de espirais, capa, cinto com cristais de teletransporte, luvas",
+          "itens_marcantes": "Cristal de teletransporte, bússola dimensional"
+        },
+        {
+          "nome": "Teletransportador de Fendas",
+          "descricao": "Abre portais que conectam dois pontos, Veste roupas com muitos círculos e runas de portal",
+          "vestimenta": "Vestes com círculos mágicos, capa, cinto com giz, luvas de metal",
+          "itens_marcantes": "Giz de portal, livro de geometria"
+        },
+        {
+          "nome": "Teletransportador de Âncora",
+          "descricao": "Une espaços, reduzindo distâncias, Veste roupas com âncoras ou correntes simbólicas",
+          "vestimenta": "Vestes com correntes bordadas, cinto com âncora pequena, luvas de couro",
+          "itens_marcantes": "Âncora dimensional, corrente de ligação"
+        },
+        {
+          "nome": "Teletransportador de Essência",
+          "descricao": "Merge em elementos naturais para se mover, Veste roupas que lembram o elemento que usa (água, fogo, etc.)",
+          "vestimenta": "Depende do elemento: para água, azul; para terra, marrom; para fogo, vermelho; para ar, branco",
+          "itens_marcantes": "Foco elemental, recipiente do elemento"
+        },
+        {
+          "nome": "Teletransportador do Vácuo",
+          "descricao": "Atravessa o vácuo entre dimensões, correndo o risco de se perder, Veste roupas que protegem contra o vazio",
+          "vestimenta": "Vestes escuras com estrelas, capa, cinto com amuletos de proteção, máscara",
+          "itens_marcantes": "Amuleto de retorno, bússola dimensional"
+        },
+        {
+          "nome": "Teletransportador do Instante",
+          "descricao": "Manipula o tempo, parecendo se mover instantaneamente, Veste roupas com relógios ou ampulhetas",
+          "vestimenta": "Vestes com desenhos de relógios, capa, cinto com ampulheta, luvas",
+          "itens_marcantes": "Ampulheta, relógio de bolso"
+        }
+      ]
+    },
+    {
+      "classe": "Telepata",
+      "subclasses": [
+        {
+          "nome": "Telepata",
+          "descricao": "Lê e influencia mentes, além de mover objetos com o pensamento, Veste roupas que protegem sua mente, com cristais",
+          "vestimenta": "Vestes de cores suaves, capa com cristais, cinto com amuletos, tiara ou diadema",
+          "itens_marcantes": "Cristal de telepatia, diário mental"
+        },
+        {
+          "nome": "Telepata Infiltração",
+          "descricao": "Lê mentes para obter segredos e pode implantar memórias, Veste roupas discretas, com muitos bolsos",
+          "vestimenta": "Roupas comuns, capa discreta, cinto com documentos, luvas finas",
+          "itens_marcantes": "Documentos falsos, cristal de leitura"
+        },
+        {
+          "nome": "Telepata Inquisidor",
+          "descricao": "Controla mentes mais fracas, transformando inimigos em marionetes, Veste roupas imponentes, com símbolos de poder",
+          "vestimenta": "Vestes escuras, capa vermelha, cinto com amuletos de controle, luvas de couro",
+          "itens_marcantes": "Cetro de comando, colar de controle"
+        },
+        {
+          "nome": "Telepata Bastião",
+          "descricao": "Cria barreiras psíquicas para proteger aliados, Veste roupas que sugerem defesa, com muitos tecidos",
+          "vestimenta": "Vestes claras, capa grossa, cinto com escudos simbólicos, braçadeiras",
+          "itens_marcantes": "Escudo psíquico, amuleto de proteção"
+        },
+        {
+          "nome": "Telepata Sintonizador",
+          "descricao": "Entende e reflete emoções, podendo copiar poderes, Veste roupas que mudam de cor conforme o humor",
+          "vestimenta": "Vestes de tecido camaleão, cinto com cristais, luvas finas",
+          "itens_marcantes": "Cristal de empatia, diário de emoções"
+        },
+        {
+          "nome": "Telepata Etéreo",
+          "descricao": "Projeta a mente para fora do corpo, explorando o plano astral, Veste roupas leves, com uma corrente de prata",
+          "vestimenta": "Vestes brancas, corrente de prata no pescoço, sandálias, cinto com incenso",
+          "itens_marcantes": "Corrente de prata, incenso de projeção"
+        },
+        {
+          "nome": "Telepata Cinético",
+          "descricao": "Move objetos com a mente, criando projéteis, Veste roupas práticas, com muitos itens pequenos para arremessar",
+          "vestimenta": "Roupas leves, cinto com pedras e adagas, luvas de metal, braçadeiras",
+          "itens_marcantes": "Pedras flutuantes, adagas mentais"
+        }
+      ]
+    }
+  ]
+}

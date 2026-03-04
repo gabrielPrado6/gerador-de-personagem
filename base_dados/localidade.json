@@ -1,0 +1,187 @@
+[
+    {
+        "nome": "Rimal",
+        "descricao": "Continente da aventura, lar de diferentes países e palco da disputa entre os Paragons e Godrakianos, Sofre com catástrofes naturais e abriga os Jogos de Kaelthor",
+        "tipo": "continente"
+    },
+    {
+        "nome": "Keiba",
+        "descricao": "Maior reinado de Rimal, conhecido como Terra de Sumaúma, Composto por dezenove reinos unidos, incluindo Sol Pálido, Reino Jaguariti, Ibirarama, Martelago e Folhabrava",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Sol Pálido",
+        "descricao": "Reino de Keiba constantemente afetado por uma garoa fina que esconde o sol, Centro do comércio internacional, produz Sarumí, um líquido que recupera mana, Seu principal porto é Talles",
+        "tipo": "reino"
+    },
+    {
+        "nome": "Ibirarama",
+        "descricao": "Cidade em Sol Pálido que cresceu a partir de uma fazenda, Polo comercial com coreto, escolas e comércios prósperos",
+        "tipo": "cidade"
+    },
+    {
+        "nome": "Reino Jaguariti",
+        "descricao": "Reino místico encravado nas matas de Keiba, protegido por forças místicas, Nativos, dríades, elfos e humanos lutam contra mineradores que buscam a Espada de Baikar",
+        "tipo": "reino"
+    },
+    {
+        "nome": "Martelago",
+        "descricao": "Um dos reinos de Keiba, mencionado mas sem detalhes específicos",
+        "tipo": "reino"
+    },
+    {
+        "nome": "Folhabrava",
+        "descricao": "Outro reino de Keiba, mencionado sem detalhes",
+        "tipo": "reino"
+    },
+    {
+        "nome": "Raishima",
+        "descricao": "Arquipélago em forma de cabeça de serpente no norte de Rimal, Terra de samurais e ninjas, com cultura asiática, agricultura e pesca, Governado por Xoguns",
+        "tipo": "arquipélago"
+    },
+    {
+        "nome": "Megalo Darsos",
+        "descricao": "Continente governado por 16 dragões, também chamado de Reinado Godrakin, Cada reino é subordinado a um dragão, Inclui Hellenikar, Vostokar, Frozstain-garden, Baltorûm, Eaterheim, Lorravain, Albionmar, Valenwall, Véromonte, Solanos, Krovoszavian, Balkhanor, Eisanwald, Helvetion, Bohemir e Bydratino",
+        "tipo": "continente"
+    },
+    {
+        "nome": "Hellenikar",
+        "descricao": "Reino em Megalo Darsos, lar do Monte Baikar e dos deuses menores, Guardado pelo dragão Alexarion, Possui a maior biblioteca do mundo",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Vostokar",
+        "descricao": "Reino de Megalo Darsos governado por Glaciwyrna, Terra de guerreiros ferozes imunes ao frio, O maior território a oeste",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Frozstain-garden",
+        "descricao": "Reino governado pela dragão Himfaxis, responsável pela neve e auroras boreais, Próximo aos outros países ao norte",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Baltorûm",
+        "descricao": "Reino governado por Pinoyvanna, dragão que é uma árvore, Terra de pinheiros ao leste",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Eaterheim",
+        "descricao": "Reino governado pelo dragão esquelético Vôlhiakosty, Necrópole viva onde muitos habitantes são mortos-vivos, preservados pelo gelo eterno, Ao sul profundo",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Lorravain",
+        "descricao": "Reino governado por Lumièresol, dragão luminoso, Polo do desenvolvimento e indústrias, misturando medieval e art nouveau",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Albionmar",
+        "descricao": "Reino governado por Morgaula, dragão das neblinas, Centro da indústria de carvão e pólvora, sempre coberto por nuvens de poluição",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Valenwall",
+        "descricao": "Reino governado por Stormkarn, dragão dos ventos, Terra dos grãos, com moinhos movidos a vento e muralhas de pedra",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Véromonte",
+        "descricao": "Reino governado por Ignulantes, dragão incandescente que dorme em um vulcão, Conhecido pelas Gemas Calda, lágrimas do dragão",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Solanos",
+        "descricao": "Reino dos portos, governado por Marisol, dragão dos mares, Ponto de partida de navios de comércio e guerra",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Krovoszavian",
+        "descricao": "Reino governado por Notranyx, dragão negro com asas estrelares, Terra de campos de trigo e pecuária, poucos castelos",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Balkhanor",
+        "descricao": "Reino governado por Umbralthar, dragão que controla memórias, Minas e forjas, com nobres tramando nas sombras",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Eisanwald",
+        "descricao": "Reino governado por Eisenstain, golem de metal, Terra de soldados, hierarquia rígida e monumentos ao passado",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Helvetion",
+        "descricao": "Reino governado por Chronovyrn, dragão do tempo, Senhores das leis e ordem, burocracia extrema",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Bohemir",
+        "descricao": "Reino governado por Sylgranir, dragão que protege as matas, Lenhadores respeitam cotas de corte",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Bydratino",
+        "descricao": "Reino governado por Shorsiskana, dragão de oito cabeças, Senhores da magia divina, dividido em oito casas elementais, Uma cabeça (madeira) foi perdida",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Lizerdy",
+        "descricao": "Continente distante, rico em mistérios e recursos minerais, Dominado pelo Império de Teravox e pelo Consórcio dos Anãos",
+        "tipo": "continente"
+    },
+    {
+        "nome": "Teravox",
+        "descricao": "Império em ascensão no norte de Lizerdy, resultado de uma revolução que derrubou o antigo imperador, Governo autoritário",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Consórcio dos Anãos",
+        "descricao": "Rede de clãs anãos que controla a extração de minérios raros em Lizerdy, com intrincado sistema de cavernas",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Montanhas da Garra Cadente",
+        "descricao": "Cadeia de montanhas em Lizerdy, conhecida por metais de meteoros, incluindo a Adamantina",
+        "tipo": "reino"
+    },
+    {
+        "nome": "Deserto de Zharientar",
+        "descricao": "Região central de Lizerdy, habitada por um povo nômade que teve seu passado roubado e agora vive em Godrakin",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Mellandes",
+        "descricao": "Continente da guerra, marcado por conflitos constantes, Sede da Confederação Paragon, Abriga o vulcão Goryashrinc, portal para o Reino da Guerra",
+        "tipo": "continente"
+    },
+    {
+        "nome": "Égide Sylvimaple",
+        "descricao": "Reinado em Mellandes dominado por elfos de diferentes tipos, além de outras raças imigrantes",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Tlexkallan",
+        "descricao": "Império diverso em Mellandes, formado por vários reinos que buscam manter o equilíbrio das chamas e conter as hordas demoníacas",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Reino de Quetzal",
+        "descricao": "Um dos principais reinos de Tlexkallan, habitado por reptilianos com poder elemental, Sofre com a Guerra das Penas e dissidências que buscam o poder das trevas",
+        "tipo": "reino"
+    },
+    {
+        "nome": "Vulcão Goryashrinc",
+        "descricao": "Vulcão em Mellandes que abriga um portal para o Reino da Guerra, De tempos em tempos, hordas de demônios emergem, corrompendo a região",
+        "tipo": "reinado"
+    },
+    {
+        "nome": "Porto de Talles",
+        "descricao": "Principal porto de Sol Pálido, centro do comércio internacional em Rimal, Navios chegam e partem carregados de mercadorias, frequentemente atacados por piratas",
+        "tipo": "reino"
+    },
+    {
+        "nome": "Monte Baikar",
+        "descricao": "Localizado em Hellenikar, é o monte mais alto do mundo, morada dos deuses menores e guardado pelo dragão Alexarion, Lá está a Espada de Baikar",
+        "tipo": "reinado"
+    }
+]
