@@ -208,3 +208,4 @@ __marimo__/
 
 # personagens-gerados
 /personagens-gerados/*
+.vscode/extensions.json
