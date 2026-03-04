@@ -3,6 +3,7 @@ import time
 import json
 import os
 import msvcrt
+from datetime import datetime
 
 def seletor(opcoes, formatar_opcao, apresentacao="Use as setas para cima/baixo e Enter para selecionar:\n"):
     indice_atual = 0
@@ -44,7 +45,13 @@ def seletor(opcoes, formatar_opcao, apresentacao="Use as setas para cima/baixo e
         elif 32 <= tecla[0] <= 126:  # Caracteres imprimíveis
             filtro += tecla.decode('ascii', errors='ignore')
             indice_atual = 0
-    
+ 
+def salvarArquivo(resultado_texto, nome_texto):
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    nome_arquivo = f"personagens-gerados/{nome_texto}_{timestamp}.txt"
+    with open(nome_arquivo, "w", encoding="utf-8") as f:
+        f.write(resultado_texto)
+       
 class GeradorPersonagem:
     def __init__(self):
         with open('./base_dados/especie.json', 'r', encoding='utf-8') as f:
@@ -270,6 +277,7 @@ class GeradorPersonagem:
         # uso do método reutilizável para gerar todo o texto de descrição
         
         descricaoPersonagem = self.formatar_descricao_personagem( genero, especie, classe, subclasse, idade, etinia, rosto, olhos, nariz, boca, cabelo, pele, corpo, fundo )
+        salvarArquivo(descricaoPersonagem, "personagem_gerado")
         print(descricaoPersonagem)
     
     def montar(self):
@@ -495,6 +503,7 @@ class GeradorPersonagem:
         apresentacao += "PROMPT\n\n"
         # uso do método reutilizável para gerar todo o texto de descrição
         descricaoPersonagem = self.formatar_descricao_personagem( genero, especie, classe, subclasse, idade['valor'], etinia, rosto, olhos, nariz, boca, cabelo, pele, corpo, fundo)
+        salvarArquivo(descricaoPersonagem, "personagem_montado")
         apresentacao += descricaoPersonagem
         
         os.system('cls')
